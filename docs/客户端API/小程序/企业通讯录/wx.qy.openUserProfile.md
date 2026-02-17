@@ -1,0 +1,46 @@
+---
+title: "wx.qy.openUserProfile"
+source: "https://developer.work.weixin.qq.com/document/path/93866"
+last_update: "2021/04/25"
+crawl_date: "2026-02-17"
+---
+
+# wx.qy.openUserProfile
+
+### wx.qy.openUserProfile(Object object)
+
+> **调用前提：**
+必须先调用过wx.qy.login，且session_key未过期，开发者可调用checkSession 检查当前登录态
+当前成员必须在应用的可见范围
+
+ 
+
+打开个人信息页
+
+#### 参数
+
+##### Object object
+
+        
+| 参数名 | 类型 | 必填 | 说明 |
+| --- | --- | --- | --- |
+| type | Number | 否 | 1表示该userid是企业成员，2表示该userid是外部联系人 |
+| userid | String | 是 | 可以是企业成员的id，也可以是外部联系人的id |
+| success | Function | 否 | 接口调用成功的回调函数 |
+| fail | Function | 否 | 接口调用失败的回调函数 |
+| complete | Function | 否 | 接口调用结束的回调函数（调用成功、失败都会执行） |
+
+ 
+
+#### 示例代码：
+
+      
+```js
+wx.qy.openUserProfile({
+      type: 1,//1表示该userid是企业成员，2表示该userid是外部联系人
+      userid: "wmEQlEGwAAHxbWYDOK5u3Af13xlYAAAA", //可以是企业成员，也可以是外部联系人
+      success: function(res) {
+        // 回调
+      }
+});
+```

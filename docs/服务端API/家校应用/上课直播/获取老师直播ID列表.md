@@ -1,0 +1,62 @@
+---
+title: "获取老师直播ID列表"
+source: "https://developer.work.weixin.qq.com/document/path/93739"
+last_update: ""
+crawl_date: "2026-02-17"
+---
+
+# 获取老师直播ID列表
+
+通过此接口可以获取指定老师的所有直播ID
+
+**请求方式：**POST（**HTTPS**）
+**请求地址：**https://qyapi.weixin.qq.com/cgi-bin/living/get_user_all_livingid?access_token=ACCESS_TOKEN
+
+**请求包体：**
+
+```
+{
+    "userid": "USERID",
+    "cursor": "NEXT_KEY",
+    "limit": 20
+}
+
+```
+
+**参数说明：**
+
+| 参数 | 必须 | 说明 |
+| --- | --- | --- |
+| access_token | 是 | 调用接口凭证 |
+| userid | 是 | 企业成员的userid |
+| cursor | 否 | 上一次调用时返回的next_cursor，第一次拉取可以不填 |
+| limit | 否 | 每次拉取的数据量，默认值和最大值都为100 |
+
+**权限说明：**
+
+- 「上课直播/直播」应用有获取用户的所有直播
+- 自建应用和第三方应用只能获取本应用创建的直播
+
+**返回结果：**
+
+```
+{
+   "errcode": 0,
+   "errmsg": "ok",
+   "next_cursor": "next_cursor",
+   "livingid_list":[
+        "livingid1",
+        "livingid2"
+   ]
+}
+
+```
+
+**参数说明：**
+
+| 参数 | 说明 |
+| --- | --- |
+| errcode | 返回码 |
+| errmsg | 对返回码的文本描述内容 |
+| next_cursor | 当前数据最后一个key值，如果下次调用带上该值则从该key值往后拉，用于实现分页拉取，返回空字符串代表已经是最后一页 |
+| livingid_list | 直播ID列表 |

@@ -1,0 +1,1127 @@
+[
+  {
+    "dir": "小程序/开发指南",
+    "file": "开发前须知",
+    "url": "/document/path/92455"
+  },
+  {
+    "dir": "小程序/开发指南",
+    "file": "开发者工具插件支持",
+    "url": "/document/path/91502"
+  },
+  {
+    "dir": "小程序/开发指南",
+    "file": "小程序关联到企业微信",
+    "url": "/document/path/92370"
+  },
+  {
+    "dir": "小程序/开发指南",
+    "file": "小程序体验版配置",
+    "url": "/document/path/92380"
+  },
+  {
+    "dir": "小程序/开发指南",
+    "file": "微信小程序API支持情况",
+    "url": "/document/path/91503"
+  },
+  {
+    "dir": "小程序/开发指南",
+    "file": "微信小程序组件支持情况",
+    "url": "/document/path/91504"
+  },
+  {
+    "dir": "小程序/登录",
+    "file": "小程序登录流程",
+    "url": "/document/path/92426"
+  },
+  {
+    "dir": "小程序/登录",
+    "file": "wx.qy.login",
+    "url": "/document/path/91506"
+  },
+  {
+    "dir": "小程序/登录",
+    "file": "code2Session",
+    "url": "/document/path/91507"
+  },
+  {
+    "dir": "小程序/登录",
+    "file": "wx.qy.checkSession",
+    "url": "/document/path/91508"
+  },
+  {
+    "dir": "小程序/基础接口",
+    "file": "wx.getSystemInfo",
+    "url": "/document/path/91510"
+  },
+  {
+    "dir": "小程序/基础接口",
+    "file": "wx.getSystemInfoSync",
+    "url": "/document/path/91511"
+  },
+  {
+    "dir": "小程序/基础接口",
+    "file": "wx.qy.getSystemInfo",
+    "url": "/document/path/95046"
+  },
+  {
+    "dir": "小程序/基础接口",
+    "file": "wx.qy.canIUse",
+    "url": "/document/path/91512"
+  },
+  {
+    "dir": "小程序/基础接口",
+    "file": "wx.qy.getContext",
+    "url": "/document/path/94321"
+  },
+  {
+    "dir": "小程序/企业通讯录",
+    "file": "wx.qy.selectEnterpriseContact",
+    "url": "/document/path/93861"
+  },
+  {
+    "dir": "小程序/企业通讯录",
+    "file": "wx.qy.openUserProfile",
+    "url": "/document/path/93866"
+  },
+  {
+    "dir": "小程序/企业通讯录",
+    "file": "wx.qy.getEnterpriseUserInfo",
+    "url": "/document/path/91617"
+  },
+  {
+    "dir": "小程序/企业通讯录",
+    "file": "wx.qy.getAvatar",
+    "url": "/document/path/91618"
+  },
+  {
+    "dir": "小程序/企业通讯录",
+    "file": "wx.qy.getQrCode",
+    "url": "/document/path/91619"
+  },
+  {
+    "dir": "小程序/企业通讯录",
+    "file": "wx.qy.getMobile",
+    "url": "/document/path/91620"
+  },
+  {
+    "dir": "小程序/企业通讯录",
+    "file": "wx.qy.getEmail",
+    "url": "/document/path/91621"
+  },
+  {
+    "dir": "小程序/企业通讯录",
+    "file": "wx.qy.selectCorpGroupContact",
+    "url": "/document/path/94184"
+  },
+  {
+    "dir": "小程序/企业通讯录",
+    "file": "wx.qy.claimClassAdmin",
+    "url": "/document/path/94435"
+  },
+  {
+    "dir": "小程序/上下游",
+    "file": "聊天工具栏接口",
+    "url": "/document/path/95706"
+  },
+  {
+    "dir": "小程序/会话",
+    "file": "wx.qy.openEnterpriseChat",
+    "url": "/document/path/91519"
+  },
+  {
+    "dir": "小程序/会话",
+    "file": "wx.qy.updateEnterpriseChat",
+    "url": "/document/path/93222"
+  },
+  {
+    "dir": "小程序/会话",
+    "file": "wx.qy.sendChatMessage",
+    "url": "/document/path/94370"
+  },
+  {
+    "dir": "小程序/会话",
+    "file": "私密消息",
+    "url": "/document/path/94488"
+  },
+  {
+    "dir": "小程序/会话",
+    "file": "wx.qy.createCorpGroupChat",
+    "url": "/document/path/94426"
+  },
+  {
+    "dir": "小程序/会话",
+    "file": "wx.qy.updateCorpGroupChat",
+    "url": "/document/path/94427"
+  },
+  {
+    "dir": "小程序/应用管理",
+    "file": "打开应用管理页面",
+    "url": "/document/path/95537"
+  },
+  {
+    "dir": "小程序/NFC接口",
+    "file": "wx.qy.getNFCReaderState",
+    "url": "/document/path/91526"
+  },
+  {
+    "dir": "小程序/NFC接口",
+    "file": "wx.qy.startNFCReader",
+    "url": "/document/path/91527"
+  },
+  {
+    "dir": "小程序/NFC接口",
+    "file": "wx.qy.stopNFCReader",
+    "url": "/document/path/91528"
+  },
+  {
+    "dir": "小程序/NFC接口",
+    "file": "onNFCReadMessage",
+    "url": "/document/path/91529"
+  },
+  {
+    "dir": "小程序/更多",
+    "file": "小程序发送通知",
+    "url": "/document/path/92372"
+  },
+  {
+    "dir": "小程序/更多",
+    "file": "语音转文字接口",
+    "url": "/document/path/92373"
+  },
+  {
+    "dir": "小程序/更多",
+    "file": "转发成功回调",
+    "url": "/document/path/92374"
+  },
+  {
+    "dir": "小程序/更多",
+    "file": "从会话选择文件",
+    "url": "/document/path/95026"
+  },
+  {
+    "dir": "小程序/客户联系",
+    "file": "wx.qy.selectExternalContact",
+    "url": "/document/path/93867"
+  },
+  {
+    "dir": "小程序/客户联系",
+    "file": "wx.qy.openUserProfile",
+    "url": "/document/path/93567"
+  },
+  {
+    "dir": "小程序/客户联系",
+    "file": "wx.qy.getCurExternalContact",
+    "url": "/document/path/93568"
+  },
+  {
+    "dir": "小程序/客户联系",
+    "file": "wx.qy.getCurExternalChat",
+    "url": "/document/path/93570"
+  },
+  {
+    "dir": "小程序/客户联系",
+    "file": "wx.qy.sendChatMessage",
+    "url": "/document/path/93863"
+  },
+  {
+    "dir": "小程序/客户联系",
+    "file": "wx.qy.shareToExternalContact",
+    "url": "/document/path/93571"
+  },
+  {
+    "dir": "小程序/客户联系",
+    "file": "wx.qy.shareToExternalChat",
+    "url": "/document/path/93572"
+  },
+  {
+    "dir": "小程序/客户联系",
+    "file": "wx.qy.navigateToAddCustomer",
+    "url": "/document/path/93864"
+  },
+  {
+    "dir": "小程序/客户联系",
+    "file": "「联系我」插件",
+    "url": "/document/path/93582"
+  },
+  {
+    "dir": "小程序/客户联系",
+    "file": "在小程序中加入群聊",
+    "url": "/document/path/93884"
+  },
+  {
+    "dir": "小程序/客户联系",
+    "file": "wx.qy.shareToExternalMoments",
+    "url": "/document/path/94608"
+  },
+  {
+    "dir": "小程序/客户联系",
+    "file": "wx.qy.updateMomentsSetting",
+    "url": "/document/path/94846"
+  },
+  {
+    "dir": "小程序/微信客服",
+    "file": "客服工具栏接口",
+    "url": "/document/path/94766"
+  },
+  {
+    "dir": "小程序/微信客服",
+    "file": "微信小程序打开微信客服",
+    "url": "/document/path/94739"
+  },
+  {
+    "dir": "小程序/对外收款",
+    "file": "发起对外收款",
+    "url": "/document/path/95952"
+  },
+  {
+    "dir": "小程序/对外收款",
+    "file": "发起退款",
+    "url": "/document/path/95953"
+  },
+  {
+    "dir": "小程序/家校沟通",
+    "file": "发起班级收款",
+    "url": "/document/path/94788"
+  },
+  {
+    "dir": "小程序/家校沟通",
+    "file": "微信小程序进入填写学生资料页面",
+    "url": "/document/path/94935"
+  },
+  {
+    "dir": "小程序/政民沟通",
+    "file": "微信进入居民上报小程序",
+    "url": "/document/path/94934"
+  },
+  {
+    "dir": "小程序/文档",
+    "file": "创建文档",
+    "url": "/document/path/98060"
+  },
+  {
+    "dir": "小程序/文档",
+    "file": "选择文档",
+    "url": "/document/path/99168"
+  },
+  {
+    "dir": "小程序/日程",
+    "file": "查看日程闲忙状态",
+    "url": "/document/path/97693"
+  },
+  {
+    "dir": "小程序/会议",
+    "file": "创建快速会议",
+    "url": "/document/path/93814"
+  },
+  {
+    "dir": "小程序/会议",
+    "file": "进入会议",
+    "url": "/document/path/93815"
+  },
+  {
+    "dir": "小程序/微盘",
+    "file": "选择目录位置",
+    "url": "/document/path/99008"
+  },
+  {
+    "dir": "小程序/微盘",
+    "file": "选择文件",
+    "url": "/document/path/99165"
+  },
+  {
+    "dir": "小程序/直播",
+    "file": "创建立即直播",
+    "url": "/document/path/93816"
+  },
+  {
+    "dir": "小程序/直播",
+    "file": "进入直播",
+    "url": "/document/path/93817"
+  },
+  {
+    "dir": "小程序/直播",
+    "file": "观看直播回放",
+    "url": "/document/path/93818"
+  },
+  {
+    "dir": "小程序/直播",
+    "file": "下载直播回放",
+    "url": "/document/path/93819"
+  },
+  {
+    "dir": "JS-SDK/开发指南",
+    "file": "概述",
+    "url": "/document/path/90513"
+  },
+  {
+    "dir": "JS-SDK/开发指南",
+    "file": "开始使用",
+    "url": "/document/path/90514"
+  },
+  {
+    "dir": "JS-SDK/基础接口",
+    "file": "ww.register",
+    "url": "/document/path/94313"
+  },
+  {
+    "dir": "JS-SDK/基础接口",
+    "file": "ww.getSignature",
+    "url": "/document/path/100694"
+  },
+  {
+    "dir": "JS-SDK/基础接口",
+    "file": "ww.checkJsApi",
+    "url": "/document/path/94312"
+  },
+  {
+    "dir": "JS-SDK/基础接口",
+    "file": "ww.getContext",
+    "url": "/document/path/94315"
+  },
+  {
+    "dir": "JS-SDK/开放接口",
+    "file": "创建企业微信登录面板",
+    "url": "/document/path/98268"
+  },
+  {
+    "dir": "JS-SDK/企业通讯录",
+    "file": "选择通讯录成员",
+    "url": "/document/path/91793"
+  },
+  {
+    "dir": "JS-SDK/企业通讯录",
+    "file": "打开个人信息页接口",
+    "url": "/document/path/91795"
+  },
+  {
+    "dir": "JS-SDK/企业通讯录",
+    "file": "企业互联/上下游选人接口",
+    "url": "/document/path/94187"
+  },
+  {
+    "dir": "JS-SDK/企业通讯录",
+    "file": "认领老师班级",
+    "url": "/document/path/94434"
+  },
+  {
+    "dir": "JS-SDK/聊天工具栏",
+    "file": "获取当前客户ID",
+    "url": "/document/path/100746"
+  },
+  {
+    "dir": "JS-SDK/聊天工具栏",
+    "file": "获取当前客户群的群ID",
+    "url": "/document/path/100747"
+  },
+  {
+    "dir": "JS-SDK/聊天工具栏",
+    "file": "隐藏聊天附件栏的发送按钮",
+    "url": "/document/path/100748"
+  },
+  {
+    "dir": "JS-SDK/聊天工具栏",
+    "file": "分享消息到当前会话",
+    "url": "/document/path/100749"
+  },
+  {
+    "dir": "JS-SDK/上下游",
+    "file": "上下游聊天工具栏",
+    "url": "/document/path/95709"
+  },
+  {
+    "dir": "JS-SDK/上下游",
+    "file": "获取上下游联系人ID",
+    "url": "/document/path/100367"
+  },
+  {
+    "dir": "JS-SDK/上下游",
+    "file": "获取上下游互联群ID",
+    "url": "/document/path/100368"
+  },
+  {
+    "dir": "JS-SDK/会话",
+    "file": "打开会话",
+    "url": "/document/path/92525"
+  },
+  {
+    "dir": "JS-SDK/会话",
+    "file": "变更群成员",
+    "url": "/document/path/93223"
+  },
+  {
+    "dir": "JS-SDK/会话",
+    "file": "打开已有群聊并发送消息",
+    "url": "/document/path/94549"
+  },
+  {
+    "dir": "JS-SDK/会话",
+    "file": "打开个人聊天窗口schema",
+    "url": "/document/path/94345"
+  },
+  {
+    "dir": "JS-SDK/会话",
+    "file": "创建企业互联/上下游会话",
+    "url": "/document/path/94430"
+  },
+  {
+    "dir": "JS-SDK/会话",
+    "file": "变更企业互联/上下游群成员",
+    "url": "/document/path/94432"
+  },
+  {
+    "dir": "JS-SDK/分享",
+    "file": "概述",
+    "url": "/document/path/100501"
+  },
+  {
+    "dir": "JS-SDK/分享",
+    "file": "监听「转发」按钮点击",
+    "url": "/document/path/100502"
+  },
+  {
+    "dir": "JS-SDK/分享",
+    "file": "监听「微信」按钮点击",
+    "url": "/document/path/100503"
+  },
+  {
+    "dir": "JS-SDK/分享",
+    "file": "监听「朋友圈」按钮点击",
+    "url": "/document/path/100504"
+  },
+  {
+    "dir": "JS-SDK/分享",
+    "file": "自定义转发到会话",
+    "url": "/document/path/100505"
+  },
+  {
+    "dir": "JS-SDK/分享",
+    "file": "自定义转发到微信",
+    "url": "/document/path/100506"
+  },
+  {
+    "dir": "JS-SDK/私密分享",
+    "file": "概述",
+    "url": "/document/path/100507"
+  },
+  {
+    "dir": "JS-SDK/私密分享",
+    "file": "设置私密消息",
+    "url": "/document/path/100508"
+  },
+  {
+    "dir": "JS-SDK/私密分享",
+    "file": "获取私密消息Ticket",
+    "url": "/document/path/100509"
+  },
+  {
+    "dir": "JS-SDK/私密分享",
+    "file": "获取私密消息信息",
+    "url": "/document/path/100510"
+  },
+  {
+    "dir": "JS-SDK/应用管理",
+    "file": "打开应用管理页面",
+    "url": "/document/path/95536"
+  },
+  {
+    "dir": "JS-SDK/界面",
+    "file": "监听页面返回",
+    "url": "/document/path/100850"
+  },
+  {
+    "dir": "JS-SDK/界面",
+    "file": "隐藏右上角菜单",
+    "url": "/document/path/100512"
+  },
+  {
+    "dir": "JS-SDK/界面",
+    "file": "显示右上角菜单",
+    "url": "/document/path/100513"
+  },
+  {
+    "dir": "JS-SDK/界面",
+    "file": "关闭当前窗口",
+    "url": "/document/path/100514"
+  },
+  {
+    "dir": "JS-SDK/界面",
+    "file": "批量隐藏功能按钮",
+    "url": "/document/path/100515"
+  },
+  {
+    "dir": "JS-SDK/界面",
+    "file": "批量显示功能按钮",
+    "url": "/document/path/100516"
+  },
+  {
+    "dir": "JS-SDK/界面",
+    "file": "隐藏非基础按钮",
+    "url": "/document/path/100517"
+  },
+  {
+    "dir": "JS-SDK/界面",
+    "file": "显示非基础按钮",
+    "url": "/document/path/98235"
+  },
+  {
+    "dir": "JS-SDK/界面",
+    "file": "打开默认浏览器",
+    "url": "/document/path/100518"
+  },
+  {
+    "dir": "JS-SDK/界面",
+    "file": "监听截屏事件",
+    "url": "/document/path/100519"
+  },
+  {
+    "dir": "JS-SDK/系统界面",
+    "file": "调起扫一扫",
+    "url": "/document/path/90492"
+  },
+  {
+    "dir": "JS-SDK/系统界面",
+    "file": "调起电子发票",
+    "url": "/document/path/90493"
+  },
+  {
+    "dir": "JS-SDK/系统界面",
+    "file": "跳转到认证界面",
+    "url": "/document/path/91717"
+  },
+  {
+    "dir": "JS-SDK/系统界面",
+    "file": "跳转到小程序",
+    "url": "/document/path/93098"
+  },
+  {
+    "dir": "JS-SDK/系统界面",
+    "file": "保持屏幕常亮",
+    "url": "/document/path/97267"
+  },
+  {
+    "dir": "JS-SDK/图像",
+    "file": "选择图片",
+    "url": "/document/path/100520"
+  },
+  {
+    "dir": "JS-SDK/图像",
+    "file": "预览图片",
+    "url": "/document/path/100521"
+  },
+  {
+    "dir": "JS-SDK/图像",
+    "file": "上传图片",
+    "url": "/document/path/100522"
+  },
+  {
+    "dir": "JS-SDK/图像",
+    "file": "下载图片",
+    "url": "/document/path/100523"
+  },
+  {
+    "dir": "JS-SDK/图像",
+    "file": "获取本地图片",
+    "url": "/document/path/100524"
+  },
+  {
+    "dir": "JS-SDK/音频",
+    "file": "开始录音",
+    "url": "/document/path/100528"
+  },
+  {
+    "dir": "JS-SDK/音频",
+    "file": "停止录音",
+    "url": "/document/path/100529"
+  },
+  {
+    "dir": "JS-SDK/音频",
+    "file": "监听录音自动停止",
+    "url": "/document/path/100530"
+  },
+  {
+    "dir": "JS-SDK/音频",
+    "file": "播放语音",
+    "url": "/document/path/100531"
+  },
+  {
+    "dir": "JS-SDK/音频",
+    "file": "暂停播放",
+    "url": "/document/path/100532"
+  },
+  {
+    "dir": "JS-SDK/音频",
+    "file": "停止播放",
+    "url": "/document/path/100533"
+  },
+  {
+    "dir": "JS-SDK/音频",
+    "file": "监听播放完毕",
+    "url": "/document/path/100534"
+  },
+  {
+    "dir": "JS-SDK/音频",
+    "file": "上传语音",
+    "url": "/document/path/100535"
+  },
+  {
+    "dir": "JS-SDK/音频",
+    "file": "下载语音",
+    "url": "/document/path/100536"
+  },
+  {
+    "dir": "JS-SDK/音频",
+    "file": "语音转文字",
+    "url": "/document/path/100537"
+  },
+  {
+    "dir": "JS-SDK/文件",
+    "file": "预览文件",
+    "url": "/document/path/100538"
+  },
+  {
+    "dir": "JS-SDK/文件",
+    "file": "从会话选择文件",
+    "url": "/document/path/100539"
+  },
+  {
+    "dir": "JS-SDK/文件",
+    "file": "获取本地临时文件",
+    "url": "/document/path/100767"
+  },
+  {
+    "dir": "JS-SDK/Wi-Fi",
+    "file": "Wi-Fi-概述",
+    "url": "/document/path/100540"
+  },
+  {
+    "dir": "JS-SDK/Wi-Fi",
+    "file": "初始化 Wi-Fi 模块",
+    "url": "/document/path/100541"
+  },
+  {
+    "dir": "JS-SDK/Wi-Fi",
+    "file": "关闭 Wi-Fi 模块",
+    "url": "/document/path/100542"
+  },
+  {
+    "dir": "JS-SDK/Wi-Fi",
+    "file": "连接 Wi-Fi",
+    "url": "/document/path/100543"
+  },
+  {
+    "dir": "JS-SDK/Wi-Fi",
+    "file": "获取 Wi-Fi 列表",
+    "url": "/document/path/100544"
+  },
+  {
+    "dir": "JS-SDK/Wi-Fi",
+    "file": "监听 Wi-Fi 列表更新",
+    "url": "/document/path/100545"
+  },
+  {
+    "dir": "JS-SDK/Wi-Fi",
+    "file": "监听 Wi-Fi 连接成功",
+    "url": "/document/path/100546"
+  },
+  {
+    "dir": "JS-SDK/Wi-Fi",
+    "file": "获取已连接中的 Wi-Fi 信息",
+    "url": "/document/path/100547"
+  },
+  {
+    "dir": "JS-SDK/蓝牙",
+    "file": "概述",
+    "url": "/document/path/100548"
+  },
+  {
+    "dir": "JS-SDK/蓝牙",
+    "file": "初始化蓝牙模块",
+    "url": "/document/path/100549"
+  },
+  {
+    "dir": "JS-SDK/蓝牙",
+    "file": "关闭蓝牙模块",
+    "url": "/document/path/100550"
+  },
+  {
+    "dir": "JS-SDK/蓝牙",
+    "file": "获取本机蓝牙状态",
+    "url": "/document/path/100551"
+  },
+  {
+    "dir": "JS-SDK/蓝牙",
+    "file": "监听蓝牙状态变化",
+    "url": "/document/path/100552"
+  },
+  {
+    "dir": "JS-SDK/蓝牙",
+    "file": "开始搜寻附近的蓝牙外围设备",
+    "url": "/document/path/100553"
+  },
+  {
+    "dir": "JS-SDK/蓝牙",
+    "file": "停止搜寻蓝牙外围设备",
+    "url": "/document/path/100554"
+  },
+  {
+    "dir": "JS-SDK/蓝牙",
+    "file": "获取已发现的蓝牙设备",
+    "url": "/document/path/100555"
+  },
+  {
+    "dir": "JS-SDK/蓝牙",
+    "file": "监听寻找到新设备",
+    "url": "/document/path/100556"
+  },
+  {
+    "dir": "JS-SDK/蓝牙",
+    "file": "获取已连接状态的设备",
+    "url": "/document/path/100557"
+  },
+  {
+    "dir": "JS-SDK/蓝牙（BLE）",
+    "file": "概述",
+    "url": "/document/path/100707"
+  },
+  {
+    "dir": "JS-SDK/蓝牙（BLE）",
+    "file": "连接BLE设备",
+    "url": "/document/path/100558"
+  },
+  {
+    "dir": "JS-SDK/蓝牙（BLE）",
+    "file": "断开设备连接",
+    "url": "/document/path/100559"
+  },
+  {
+    "dir": "JS-SDK/蓝牙（BLE）",
+    "file": "监听BLE设备连接状态",
+    "url": "/document/path/100560"
+  },
+  {
+    "dir": "JS-SDK/蓝牙（BLE）",
+    "file": "获取BLE设备所有服务",
+    "url": "/document/path/100561"
+  },
+  {
+    "dir": "JS-SDK/蓝牙（BLE）",
+    "file": "获取BLE设备特征值",
+    "url": "/document/path/100562"
+  },
+  {
+    "dir": "JS-SDK/蓝牙（BLE）",
+    "file": "读取BLE设备特征值数据",
+    "url": "/document/path/100563"
+  },
+  {
+    "dir": "JS-SDK/蓝牙（BLE）",
+    "file": "写入BLE设备特征值数据",
+    "url": "/document/path/100564"
+  },
+  {
+    "dir": "JS-SDK/蓝牙（BLE）",
+    "file": "启用BLE设备特征值订阅",
+    "url": "/document/path/100565"
+  },
+  {
+    "dir": "JS-SDK/蓝牙（BLE）",
+    "file": "监听BLE设备特征值变化",
+    "url": "/document/path/100566"
+  },
+  {
+    "dir": "JS-SDK/iBeacon",
+    "file": "概述",
+    "url": "/document/path/100567"
+  },
+  {
+    "dir": "JS-SDK/iBeacon",
+    "file": "搜索附近设备",
+    "url": "/document/path/100568"
+  },
+  {
+    "dir": "JS-SDK/iBeacon",
+    "file": "停止搜索设备",
+    "url": "/document/path/100569"
+  },
+  {
+    "dir": "JS-SDK/iBeacon",
+    "file": "获取已搜索到的设备",
+    "url": "/document/path/100570"
+  },
+  {
+    "dir": "JS-SDK/iBeacon",
+    "file": "监听设备更新",
+    "url": "/document/path/100571"
+  },
+  {
+    "dir": "JS-SDK/iBeacon",
+    "file": "监听设备服务状态",
+    "url": "/document/path/100572"
+  },
+  {
+    "dir": "JS-SDK/网络",
+    "file": "获取网络状态",
+    "url": "/document/path/100573"
+  },
+  {
+    "dir": "JS-SDK/网络",
+    "file": "监听网络状态",
+    "url": "/document/path/100574"
+  },
+  {
+    "dir": "JS-SDK/剪贴板",
+    "file": "获取剪贴板内容",
+    "url": "/document/path/100575"
+  },
+  {
+    "dir": "JS-SDK/剪贴板",
+    "file": "设置剪贴板内容",
+    "url": "/document/path/100576"
+  },
+  {
+    "dir": "JS-SDK/地理位置",
+    "file": "打开内置地图",
+    "url": "/document/path/100577"
+  },
+  {
+    "dir": "JS-SDK/地理位置",
+    "file": "获取地理位置",
+    "url": "/document/path/100578"
+  },
+  {
+    "dir": "JS-SDK/地理位置",
+    "file": "打开持续定位",
+    "url": "/document/path/100579"
+  },
+  {
+    "dir": "JS-SDK/地理位置",
+    "file": "停止持续定位",
+    "url": "/document/path/100580"
+  },
+  {
+    "dir": "JS-SDK/地理位置",
+    "file": "监听地理位置",
+    "url": "/document/path/100581"
+  },
+  {
+    "dir": "JS-SDK/客户联系",
+    "file": "外部联系人选人接口",
+    "url": "/document/path/91797"
+  },
+  {
+    "dir": "JS-SDK/客户联系",
+    "file": "打开个人信息页接口",
+    "url": "/document/path/91798"
+  },
+  {
+    "dir": "JS-SDK/客户联系",
+    "file": "聊天工具栏接口",
+    "url": "/document/path/91789"
+  },
+  {
+    "dir": "JS-SDK/客户联系",
+    "file": "群发消息给客户",
+    "url": "/document/path/93555"
+  },
+  {
+    "dir": "JS-SDK/客户联系",
+    "file": "群发消息到客户群",
+    "url": "/document/path/93556"
+  },
+  {
+    "dir": "JS-SDK/客户联系",
+    "file": "进入添加客户界面",
+    "url": "/document/path/93071"
+  },
+  {
+    "dir": "JS-SDK/客户联系",
+    "file": "发表内容到客户朋友圈",
+    "url": "/document/path/94607"
+  },
+  {
+    "dir": "JS-SDK/客户联系",
+    "file": "设置朋友圈封面与签名",
+    "url": "/document/path/94845"
+  },
+  {
+    "dir": "JS-SDK/微信客服",
+    "file": "聊天工具栏接口",
+    "url": "/document/path/94764"
+  },
+  {
+    "dir": "JS-SDK/微信客服",
+    "file": "进入微信客服消息界面",
+    "url": "/document/path/94869"
+  },
+  {
+    "dir": "JS-SDK/对外收款",
+    "file": "发起对外收款",
+    "url": "/document/path/95927"
+  },
+  {
+    "dir": "JS-SDK/对外收款",
+    "file": "发起退款",
+    "url": "/document/path/95928"
+  },
+  {
+    "dir": "JS-SDK/家校沟通",
+    "file": "发起班级收款",
+    "url": "/document/path/94784"
+  },
+  {
+    "dir": "JS-SDK/家校沟通",
+    "file": "微信H5页面唤起填写学生资料页面",
+    "url": "/document/path/94936"
+  },
+  {
+    "dir": "JS-SDK/政民沟通",
+    "file": "微信进入居民上报小程序",
+    "url": "/document/path/94938"
+  },
+  {
+    "dir": "JS-SDK/文档",
+    "file": "创建文档",
+    "url": "/document/path/98066"
+  },
+  {
+    "dir": "JS-SDK/文档",
+    "file": "选择文档",
+    "url": "/document/path/99157"
+  },
+  {
+    "dir": "JS-SDK/文档",
+    "file": "文件/文档标题展示组件",
+    "url": "/document/path/99344"
+  },
+  {
+    "dir": "JS-SDK/日程",
+    "file": "查看日程闲忙状态",
+    "url": "/document/path/97312"
+  },
+  {
+    "dir": "JS-SDK/会议",
+    "file": "创建快速会议",
+    "url": "/document/path/93806"
+  },
+  {
+    "dir": "JS-SDK/会议",
+    "file": "进入会议",
+    "url": "/document/path/93807"
+  },
+  {
+    "dir": "JS-SDK/微盘",
+    "file": "选择目录位置",
+    "url": "/document/path/99009"
+  },
+  {
+    "dir": "JS-SDK/微盘",
+    "file": "选择文件",
+    "url": "/document/path/99154"
+  },
+  {
+    "dir": "JS-SDK/微盘",
+    "file": "文件/文档标题展示组件",
+    "url": "/document/path/99345"
+  },
+  {
+    "dir": "JS-SDK/直播",
+    "file": "创建立即直播",
+    "url": "/document/path/93808"
+  },
+  {
+    "dir": "JS-SDK/直播",
+    "file": "进入直播",
+    "url": "/document/path/93809"
+  },
+  {
+    "dir": "JS-SDK/直播",
+    "file": "观看直播回放",
+    "url": "/document/path/93810"
+  },
+  {
+    "dir": "JS-SDK/直播",
+    "file": "下载直播回放",
+    "url": "/document/path/93811"
+  },
+  {
+    "dir": "JS-SDK/审批",
+    "file": "应用发起审批",
+    "url": "/document/path/97202"
+  },
+  {
+    "dir": "JS-SDK/审批",
+    "file": "审批控件中的外部选项",
+    "url": "/document/path/97067"
+  },
+  {
+    "dir": "JS-SDK/审批",
+    "file": "保存选择的选项",
+    "url": "/document/path/100722"
+  },
+  {
+    "dir": "JS-SDK/审批",
+    "file": "获取已选择的选项",
+    "url": "/document/path/100723"
+  },
+  {
+    "dir": "JS-SDK/附录",
+    "file": "JS-SDK 签名算法",
+    "url": "/document/path/90506"
+  },
+  {
+    "dir": "JS-SDK/附录",
+    "file": "所有菜单项列表",
+    "url": "/document/path/90508"
+  },
+  {
+    "dir": "JS-SDK/附录",
+    "file": "常见错误及解决方法",
+    "url": "/document/path/90509"
+  },
+  {
+    "dir": "移动端SDK",
+    "file": "概述",
+    "url": "/document/path/90294"
+  },
+  {
+    "dir": "移动端SDK/企业微信登录",
+    "file": "iOS应用",
+    "url": "/document/path/91193"
+  },
+  {
+    "dir": "移动端SDK/企业微信登录",
+    "file": "Android应用",
+    "url": "/document/path/91194"
+  },
+  {
+    "dir": "移动端SDK/企业微信登录",
+    "file": "Harmony应用",
+    "url": "/document/path/101021"
+  },
+  {
+    "dir": "移动端SDK/企业微信分享",
+    "file": "iOS应用",
+    "url": "/document/path/91195"
+  },
+  {
+    "dir": "移动端SDK/企业微信分享",
+    "file": "Android应用",
+    "url": "/document/path/91196"
+  },
+  {
+    "dir": "移动端SDK/企业微信分享",
+    "file": "Harmony应用",
+    "url": "/document/path/101022"
+  },
+  {
+    "dir": "移动端SDK",
+    "file": "App跳转微信客服",
+    "url": "/document/path/94740"
+  },
+  {
+    "dir": "消息推送（原“群机器人”）",
+    "file": "消息推送配置说明",
+    "url": "/document/path/91770"
+  }
+]

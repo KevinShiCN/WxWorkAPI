@@ -1,0 +1,102 @@
+{
+  "快速入门": [
+    {
+      "dir": "",
+      "file": "概述",
+      "url": "/document/path/90556"
+    },
+    {
+      "dir": "",
+      "file": "简易教程",
+      "url": "/document/path/90487"
+    }
+  ],
+  "工具与资源": [
+    {
+      "dir": "",
+      "file": "开发者工具",
+      "url": "/document/path/90678"
+    },
+    {
+      "dir": "",
+      "file": "样式库 WeUI for Work",
+      "url": "/document/path/90305"
+    },
+    {
+      "dir": "",
+      "file": "设计资源下载",
+      "url": "/document/path/90306"
+    },
+    {
+      "dir": "",
+      "file": "加解密库下载与返回码",
+      "url": "/document/path/90307"
+    },
+    {
+      "dir": "",
+      "file": "接口代码参考示例",
+      "url": "/document/path/90308"
+    },
+    {
+      "dir": "",
+      "file": "移动端SDK资源下载",
+      "url": "/document/path/91074"
+    },
+    {
+      "dir": "",
+      "file": "企业微信应用深色模式色值表",
+      "url": "/document/path/94600"
+    }
+  ],
+  "附录": [
+    {
+      "dir": "",
+      "file": "加解密方案说明",
+      "url": "/document/path/90968"
+    },
+    {
+      "dir": "",
+      "file": "访问频率限制",
+      "url": "/document/path/90312"
+    },
+    {
+      "dir": "",
+      "file": "全局错误码",
+      "url": "/document/path/90313"
+    },
+    {
+      "dir": "",
+      "file": "企业规模与行业信息",
+      "url": "/document/path/90314"
+    },
+    {
+      "dir": "",
+      "file": "常见问题 - FAQ",
+      "url": "/document/path/90315"
+    },
+    {
+      "dir": "",
+      "file": "与企业号接口差异",
+      "url": "/document/path/90311"
+    },
+    {
+      "dir": "",
+      "file": "深色模式适配指南",
+      "url": "/document/path/94555"
+    }
+  ],
+  "更新日志": [
+    {
+      "dir": "",
+      "file": "更新日志",
+      "url": "/document/path/93221"
+    }
+  ],
+  "联系我们": [
+    {
+      "dir": "",
+      "file": "联系我们",
+      "url": "/document/path/90623"
+    }
+  ]
+}

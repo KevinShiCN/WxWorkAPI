@@ -1,0 +1,3547 @@
+[
+  {
+    "dir": "开发指南",
+    "file": "开发前必读",
+    "url": "/document/path/90664"
+  },
+  {
+    "dir": "开发指南",
+    "file": "基本概念介绍",
+    "url": "/document/path/90665"
+  },
+  {
+    "dir": "开发指南",
+    "file": "获取access_token",
+    "url": "/document/path/91039"
+  },
+  {
+    "dir": "开发指南",
+    "file": "回调配置",
+    "url": "/document/path/90930"
+  },
+  {
+    "dir": "开发指南",
+    "file": "获取企业微信接口IP段",
+    "url": "/document/path/92520"
+  },
+  {
+    "dir": "开发指南",
+    "file": "获取企业微信回调IP段",
+    "url": "/document/path/92521"
+  },
+  {
+    "dir": "账号ID",
+    "file": "概述",
+    "url": "/document/path/98728"
+  },
+  {
+    "dir": "账号ID",
+    "file": "自建应用与第三方应用的对接",
+    "url": "/document/path/95884"
+  },
+  {
+    "dir": "账号ID",
+    "file": "tmp_external_userid的转换",
+    "url": "/document/path/98729"
+  },
+  {
+    "dir": "通讯录管理",
+    "file": "概述",
+    "url": "/document/path/90193"
+  },
+  {
+    "dir": "通讯录管理/成员管理",
+    "file": "成员扩展属性",
+    "url": "/document/path/100067"
+  },
+  {
+    "dir": "通讯录管理/成员管理",
+    "file": "创建成员",
+    "url": "/document/path/90195"
+  },
+  {
+    "dir": "通讯录管理/成员管理",
+    "file": "读取成员",
+    "url": "/document/path/90196"
+  },
+  {
+    "dir": "通讯录管理/成员管理",
+    "file": "更新成员",
+    "url": "/document/path/90197"
+  },
+  {
+    "dir": "通讯录管理/成员管理",
+    "file": "删除成员",
+    "url": "/document/path/90198"
+  },
+  {
+    "dir": "通讯录管理/成员管理",
+    "file": "批量删除成员",
+    "url": "/document/path/90199"
+  },
+  {
+    "dir": "通讯录管理/成员管理",
+    "file": "获取部门成员",
+    "url": "/document/path/90200"
+  },
+  {
+    "dir": "通讯录管理/成员管理",
+    "file": "获取部门成员详情",
+    "url": "/document/path/90201"
+  },
+  {
+    "dir": "通讯录管理/成员管理",
+    "file": "userid与openid互换",
+    "url": "/document/path/90202"
+  },
+  {
+    "dir": "通讯录管理/成员管理",
+    "file": "登录二次验证",
+    "url": "/document/path/90203"
+  },
+  {
+    "dir": "通讯录管理/成员管理",
+    "file": "邀请成员",
+    "url": "/document/path/90975"
+  },
+  {
+    "dir": "通讯录管理/成员管理",
+    "file": "获取加入企业二维码",
+    "url": "/document/path/91714"
+  },
+  {
+    "dir": "通讯录管理/成员管理",
+    "file": "手机号获取userid",
+    "url": "/document/path/95402"
+  },
+  {
+    "dir": "通讯录管理/成员管理",
+    "file": "邮箱获取userid",
+    "url": "/document/path/95895"
+  },
+  {
+    "dir": "通讯录管理/成员管理",
+    "file": "获取成员ID列表",
+    "url": "/document/path/96067"
+  },
+  {
+    "dir": "通讯录管理/部门管理",
+    "file": "创建部门",
+    "url": "/document/path/90205"
+  },
+  {
+    "dir": "通讯录管理/部门管理",
+    "file": "更新部门",
+    "url": "/document/path/90206"
+  },
+  {
+    "dir": "通讯录管理/部门管理",
+    "file": "删除部门",
+    "url": "/document/path/90207"
+  },
+  {
+    "dir": "通讯录管理/部门管理",
+    "file": "获取部门列表",
+    "url": "/document/path/90208"
+  },
+  {
+    "dir": "通讯录管理/部门管理",
+    "file": "获取子部门ID列表",
+    "url": "/document/path/95350"
+  },
+  {
+    "dir": "通讯录管理/部门管理",
+    "file": "获取单个部门详情",
+    "url": "/document/path/95351"
+  },
+  {
+    "dir": "通讯录管理/标签管理",
+    "file": "创建标签",
+    "url": "/document/path/90210"
+  },
+  {
+    "dir": "通讯录管理/标签管理",
+    "file": "更新标签名字",
+    "url": "/document/path/90211"
+  },
+  {
+    "dir": "通讯录管理/标签管理",
+    "file": "删除标签",
+    "url": "/document/path/90212"
+  },
+  {
+    "dir": "通讯录管理/标签管理",
+    "file": "获取标签成员",
+    "url": "/document/path/90213"
+  },
+  {
+    "dir": "通讯录管理/标签管理",
+    "file": "增加标签成员",
+    "url": "/document/path/90214"
+  },
+  {
+    "dir": "通讯录管理/标签管理",
+    "file": "删除标签成员",
+    "url": "/document/path/90215"
+  },
+  {
+    "dir": "通讯录管理/标签管理",
+    "file": "获取标签列表",
+    "url": "/document/path/90216"
+  },
+  {
+    "dir": "通讯录管理/异步导入接口",
+    "file": "概述",
+    "url": "/document/path/90979"
+  },
+  {
+    "dir": "通讯录管理/异步导入接口",
+    "file": "增量更新成员",
+    "url": "/document/path/90980"
+  },
+  {
+    "dir": "通讯录管理/异步导入接口",
+    "file": "全量覆盖成员",
+    "url": "/document/path/90981"
+  },
+  {
+    "dir": "通讯录管理/异步导入接口",
+    "file": "全量覆盖部门",
+    "url": "/document/path/90982"
+  },
+  {
+    "dir": "通讯录管理/异步导入接口",
+    "file": "获取异步任务结果",
+    "url": "/document/path/90983"
+  },
+  {
+    "dir": "通讯录管理/异步导出接口",
+    "file": "概述",
+    "url": "/document/path/94850"
+  },
+  {
+    "dir": "通讯录管理/异步导出接口",
+    "file": "导出成员",
+    "url": "/document/path/94849"
+  },
+  {
+    "dir": "通讯录管理/异步导出接口",
+    "file": "导出成员详情",
+    "url": "/document/path/94851"
+  },
+  {
+    "dir": "通讯录管理/异步导出接口",
+    "file": "导出部门",
+    "url": "/document/path/94852"
+  },
+  {
+    "dir": "通讯录管理/异步导出接口",
+    "file": "导出标签成员",
+    "url": "/document/path/94853"
+  },
+  {
+    "dir": "通讯录管理/异步导出接口",
+    "file": "获取导出结果",
+    "url": "/document/path/94854"
+  },
+  {
+    "dir": "通讯录管理/异步导出接口",
+    "file": "导出任务完成通知",
+    "url": "/document/path/94946"
+  },
+  {
+    "dir": "通讯录管理/通讯录回调通知",
+    "file": "概述",
+    "url": "/document/path/90967"
+  },
+  {
+    "dir": "通讯录管理/通讯录回调通知",
+    "file": "成员变更通知",
+    "url": "/document/path/90970"
+  },
+  {
+    "dir": "通讯录管理/通讯录回调通知",
+    "file": "部门变更通知",
+    "url": "/document/path/90971"
+  },
+  {
+    "dir": "通讯录管理/通讯录回调通知",
+    "file": "标签变更通知",
+    "url": "/document/path/90972"
+  },
+  {
+    "dir": "通讯录管理/通讯录回调通知",
+    "file": "异步任务完成通知",
+    "url": "/document/path/90973"
+  },
+  {
+    "dir": "通讯录管理",
+    "file": "通讯录同步接口调整",
+    "url": "/document/path/96079"
+  },
+  {
+    "dir": "身份验证/网页授权登录",
+    "file": "开始开发",
+    "url": "/document/path/91335"
+  },
+  {
+    "dir": "身份验证/网页授权登录",
+    "file": "构造网页授权链接",
+    "url": "/document/path/91022"
+  },
+  {
+    "dir": "身份验证/网页授权登录",
+    "file": "获取访问用户身份",
+    "url": "/document/path/91023"
+  },
+  {
+    "dir": "身份验证/网页授权登录",
+    "file": "获取访问用户敏感信息",
+    "url": "/document/path/95833"
+  },
+  {
+    "dir": "身份验证/企业微信Web登录",
+    "file": "开始开发",
+    "url": "/document/path/98151"
+  },
+  {
+    "dir": "身份验证/企业微信Web登录",
+    "file": "Web登录组件",
+    "url": "/document/path/98152"
+  },
+  {
+    "dir": "身份验证/企业微信Web登录",
+    "file": "获取用户登录身份",
+    "url": "/document/path/98176"
+  },
+  {
+    "dir": "身份验证/二次验证",
+    "file": "概述",
+    "url": "/document/path/99519"
+  },
+  {
+    "dir": "身份验证/二次验证",
+    "file": "获取用户二次验证信息",
+    "url": "/document/path/99499"
+  },
+  {
+    "dir": "身份验证/二次验证",
+    "file": "登录二次验证",
+    "url": "/document/path/99521"
+  },
+  {
+    "dir": "身份验证/二次验证",
+    "file": "使用二次验证",
+    "url": "/document/path/99500"
+  },
+  {
+    "dir": "企业互联",
+    "file": "概述",
+    "url": "/document/path/93360"
+  },
+  {
+    "dir": "企业互联",
+    "file": "获取应用共享信息",
+    "url": "/document/path/93403"
+  },
+  {
+    "dir": "企业互联",
+    "file": "获取下级/下游企业的access_token",
+    "url": "/document/path/93359"
+  },
+  {
+    "dir": "企业互联",
+    "file": "获取下级/下游企业小程序session",
+    "url": "/document/path/93355"
+  },
+  {
+    "dir": "上下游",
+    "file": "概述",
+    "url": "/document/path/97213"
+  },
+  {
+    "dir": "上下游/基础接口",
+    "file": "获取应用共享信息",
+    "url": "/document/path/95813"
+  },
+  {
+    "dir": "上下游/基础接口",
+    "file": "获取下级/下游企业的access_token",
+    "url": "/document/path/95816"
+  },
+  {
+    "dir": "上下游/基础接口",
+    "file": "获取下级/下游企业小程序session",
+    "url": "/document/path/95817"
+  },
+  {
+    "dir": "上下游/基础接口",
+    "file": "上下游关联客户信息-已添加客户",
+    "url": "/document/path/95818"
+  },
+  {
+    "dir": "上下游/基础接口",
+    "file": "上下游关联客户信息-未添加客户",
+    "url": "/document/path/97357"
+  },
+  {
+    "dir": "上下游/上下游通讯录管理",
+    "file": "获取上下游信息",
+    "url": "/document/path/95820"
+  },
+  {
+    "dir": "上下游/上下游通讯录管理",
+    "file": "批量导入上下游联系人",
+    "url": "/document/path/95821"
+  },
+  {
+    "dir": "上下游/上下游通讯录管理",
+    "file": "获取异步任务结果",
+    "url": "/document/path/95823"
+  },
+  {
+    "dir": "上下游/上下游通讯录管理",
+    "file": "移除企业",
+    "url": "/document/path/95822"
+  },
+  {
+    "dir": "上下游/上下游通讯录管理",
+    "file": "查询成员自定义id",
+    "url": "/document/path/97441"
+  },
+  {
+    "dir": "上下游/上下游通讯录管理",
+    "file": "获取下级企业加入的上下游",
+    "url": "/document/path/97442"
+  },
+  {
+    "dir": "上下游/上下游规则",
+    "file": "获取对接规则id列表",
+    "url": "/document/path/95631"
+  },
+  {
+    "dir": "上下游/上下游规则",
+    "file": "删除对接规则",
+    "url": "/document/path/95632"
+  },
+  {
+    "dir": "上下游/上下游规则",
+    "file": "获取对接规则详情",
+    "url": "/document/path/95633"
+  },
+  {
+    "dir": "上下游/上下游规则",
+    "file": "新增对接规则",
+    "url": "/document/path/95634"
+  },
+  {
+    "dir": "上下游/上下游规则",
+    "file": "更新对接规则",
+    "url": "/document/path/95635"
+  },
+  {
+    "dir": "上下游/回调事件",
+    "file": "概述",
+    "url": "/document/path/95794"
+  },
+  {
+    "dir": "上下游/回调事件",
+    "file": "上下游变更回调",
+    "url": "/document/path/95796"
+  },
+  {
+    "dir": "上下游/回调事件",
+    "file": "异步任务完成通知",
+    "url": "/document/path/95797"
+  },
+  {
+    "dir": "安全管理",
+    "file": "文件防泄漏",
+    "url": "/document/path/98079"
+  },
+  {
+    "dir": "安全管理",
+    "file": "设备管理",
+    "url": "/document/path/98920"
+  },
+  {
+    "dir": "安全管理",
+    "file": "截屏/录屏管理",
+    "url": "/document/path/100128"
+  },
+  {
+    "dir": "安全管理/高级功能账号管理",
+    "file": "分配高级功能账号",
+    "url": "/document/path/99503"
+  },
+  {
+    "dir": "安全管理/高级功能账号管理",
+    "file": "取消高级功能账号",
+    "url": "/document/path/99505"
+  },
+  {
+    "dir": "安全管理/高级功能账号管理",
+    "file": "获取高级功能账号列表",
+    "url": "/document/path/99506"
+  },
+  {
+    "dir": "安全管理/操作日志",
+    "file": "获取成员操作记录",
+    "url": "/document/path/100178"
+  },
+  {
+    "dir": "安全管理/操作日志",
+    "file": "获取管理端操作日志",
+    "url": "/document/path/100179"
+  },
+  {
+    "dir": "安全管理",
+    "file": "获取企业微信域名IP信息",
+    "url": "/document/path/100079"
+  },
+  {
+    "dir": "安全管理",
+    "file": "回调通知",
+    "url": "/document/path/100080"
+  },
+  {
+    "dir": "消息接收与发送",
+    "file": "概述",
+    "url": "/document/path/90235"
+  },
+  {
+    "dir": "消息接收与发送",
+    "file": "发送应用消息",
+    "url": "/document/path/90236"
+  },
+  {
+    "dir": "消息接收与发送",
+    "file": "更新模版卡片消息",
+    "url": "/document/path/94888"
+  },
+  {
+    "dir": "消息接收与发送",
+    "file": "撤回应用消息",
+    "url": "/document/path/94867"
+  },
+  {
+    "dir": "消息接收与发送/接收消息与事件",
+    "file": "概述",
+    "url": "/document/path/90238"
+  },
+  {
+    "dir": "消息接收与发送/接收消息与事件",
+    "file": "消息格式",
+    "url": "/document/path/90239"
+  },
+  {
+    "dir": "消息接收与发送/接收消息与事件",
+    "file": "事件格式",
+    "url": "/document/path/90240"
+  },
+  {
+    "dir": "消息接收与发送/接收消息与事件",
+    "file": "被动回复消息格式",
+    "url": "/document/path/90241"
+  },
+  {
+    "dir": "消息接收与发送/应用发送消息到群聊会话",
+    "file": "概述",
+    "url": "/document/path/90244"
+  },
+  {
+    "dir": "消息接收与发送/应用发送消息到群聊会话",
+    "file": "创建群聊会话",
+    "url": "/document/path/90245"
+  },
+  {
+    "dir": "消息接收与发送/应用发送消息到群聊会话",
+    "file": "修改群聊会话",
+    "url": "/document/path/98913"
+  },
+  {
+    "dir": "消息接收与发送/应用发送消息到群聊会话",
+    "file": "获取群聊会话",
+    "url": "/document/path/98914"
+  },
+  {
+    "dir": "消息接收与发送/应用发送消息到群聊会话",
+    "file": "应用推送消息",
+    "url": "/document/path/90248"
+  },
+  {
+    "dir": "消息接收与发送/家校消息推送",
+    "file": "发送「学校通知」",
+    "url": "/document/path/91609"
+  },
+  {
+    "dir": "消息接收与发送/消息推送（原“群机器人”）",
+    "file": "消息推送配置说明",
+    "url": "/document/path/99110"
+  },
+  {
+    "dir": "消息接收与发送/智能机器人",
+    "file": "概述",
+    "url": "/document/path/101039"
+  },
+  {
+    "dir": "消息接收与发送/智能机器人",
+    "file": "接收消息",
+    "url": "/document/path/100719"
+  },
+  {
+    "dir": "消息接收与发送/智能机器人",
+    "file": "接收事件",
+    "url": "/document/path/101027"
+  },
+  {
+    "dir": "消息接收与发送/智能机器人",
+    "file": "被动回复消息",
+    "url": "/document/path/101031"
+  },
+  {
+    "dir": "消息接收与发送/智能机器人",
+    "file": "模板卡片类型",
+    "url": "/document/path/101032"
+  },
+  {
+    "dir": "消息接收与发送/智能机器人",
+    "file": "回调和回复的加解密方案",
+    "url": "/document/path/101033"
+  },
+  {
+    "dir": "消息接收与发送/智能机器人",
+    "file": "主动回复消息",
+    "url": "/document/path/101138"
+  },
+  {
+    "dir": "消息接收与发送/智能表格自动化创建的群聊",
+    "file": "获取群聊列表",
+    "url": "/document/path/100989"
+  },
+  {
+    "dir": "消息接收与发送/智能表格自动化创建的群聊",
+    "file": "获取群聊会话",
+    "url": "/document/path/101028"
+  },
+  {
+    "dir": "消息接收与发送/智能表格自动化创建的群聊",
+    "file": "修改群聊会话",
+    "url": "/document/path/101029"
+  },
+  {
+    "dir": "应用管理",
+    "file": "概述",
+    "url": "/document/path/90226"
+  },
+  {
+    "dir": "应用管理",
+    "file": "获取应用",
+    "url": "/document/path/90227"
+  },
+  {
+    "dir": "应用管理",
+    "file": "设置应用",
+    "url": "/document/path/90228"
+  },
+  {
+    "dir": "应用管理/自定义菜单",
+    "file": "创建菜单",
+    "url": "/document/path/90231"
+  },
+  {
+    "dir": "应用管理/自定义菜单",
+    "file": "获取菜单",
+    "url": "/document/path/90232"
+  },
+  {
+    "dir": "应用管理/自定义菜单",
+    "file": "删除菜单",
+    "url": "/document/path/90233"
+  },
+  {
+    "dir": "应用管理",
+    "file": "设置工作台自定义展示",
+    "url": "/document/path/92535"
+  },
+  {
+    "dir": "素材管理",
+    "file": "概述",
+    "url": "/document/path/91054"
+  },
+  {
+    "dir": "素材管理",
+    "file": "上传临时素材",
+    "url": "/document/path/90253"
+  },
+  {
+    "dir": "素材管理",
+    "file": "上传图片",
+    "url": "/document/path/90256"
+  },
+  {
+    "dir": "素材管理",
+    "file": "获取临时素材",
+    "url": "/document/path/90254"
+  },
+  {
+    "dir": "素材管理",
+    "file": "获取高清语音素材",
+    "url": "/document/path/90255"
+  },
+  {
+    "dir": "素材管理",
+    "file": "异步上传临时素材",
+    "url": "/document/path/96219"
+  },
+  {
+    "dir": "电子发票",
+    "file": "概述",
+    "url": "/document/path/90283"
+  },
+  {
+    "dir": "电子发票",
+    "file": "查询电子发票",
+    "url": "/document/path/90284"
+  },
+  {
+    "dir": "电子发票",
+    "file": "更新发票状态",
+    "url": "/document/path/90285"
+  },
+  {
+    "dir": "电子发票",
+    "file": "批量更新发票状态",
+    "url": "/document/path/90286"
+  },
+  {
+    "dir": "电子发票",
+    "file": "批量查询电子发票",
+    "url": "/document/path/90287"
+  },
+  {
+    "dir": "数据与智能专区",
+    "file": "概述",
+    "url": "/document/path/99941"
+  },
+  {
+    "dir": "数据与智能专区",
+    "file": "基本概念介绍",
+    "url": "/document/path/99942"
+  },
+  {
+    "dir": "数据与智能专区",
+    "file": "接入指引",
+    "url": "/document/path/99871"
+  },
+  {
+    "dir": "数据与智能专区",
+    "file": "专区程序开发指引",
+    "url": "/document/path/100057"
+  },
+  {
+    "dir": "数据与智能专区",
+    "file": "专区程序示例",
+    "url": "/document/path/100052"
+  },
+  {
+    "dir": "数据与智能专区",
+    "file": "专区程序SDK和示例下载",
+    "url": "/document/path/100249"
+  },
+  {
+    "dir": "数据与智能专区",
+    "file": "镜像文件配置指引",
+    "url": "/document/path/99955"
+  },
+  {
+    "dir": "数据与智能专区",
+    "file": "会话展示组件",
+    "url": "/document/path/100076"
+  },
+  {
+    "dir": "数据与智能专区/基础接口",
+    "file": "设置公钥",
+    "url": "/document/path/99961"
+  },
+  {
+    "dir": "数据与智能专区/基础接口",
+    "file": "获取授权存档的成员列表",
+    "url": "/document/path/99962"
+  },
+  {
+    "dir": "数据与智能专区/基础接口",
+    "file": "设置专区接收回调事件",
+    "url": "/document/path/99963"
+  },
+  {
+    "dir": "数据与智能专区/基础接口",
+    "file": "会话组件敏感信息隐藏设置",
+    "url": "/document/path/100139"
+  },
+  {
+    "dir": "数据与智能专区/基础接口",
+    "file": "设置日志打印级别",
+    "url": "/document/path/100108"
+  },
+  {
+    "dir": "数据与智能专区/基础接口",
+    "file": "上传临时文件到专区",
+    "url": "/document/path/100174"
+  },
+  {
+    "dir": "数据与智能专区/应用调用专区程序",
+    "file": "概述",
+    "url": "/document/path/99964"
+  },
+  {
+    "dir": "数据与智能专区/应用调用专区程序",
+    "file": "应用同步调用专区程序",
+    "url": "/document/path/99965"
+  },
+  {
+    "dir": "数据与智能专区/应用调用专区程序",
+    "file": "应用异步调用专区程序",
+    "url": "/document/path/99966"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "概述",
+    "url": "/document/path/99967"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "获取会话记录",
+    "url": "/document/path/99968"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "获取会话同意情况",
+    "url": "/document/path/99969"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "获取内部群信息",
+    "url": "/document/path/99970"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "会话名称搜索",
+    "url": "/document/path/99971"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "会话消息搜索",
+    "url": "/document/path/99972"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "员工或客户名称搜索",
+    "url": "/document/path/100243"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "关键词规则管理",
+    "url": "/document/path/99973"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "获取命中关键词规则的会话记录",
+    "url": "/document/path/99974"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "管理企业知识集",
+    "url": "/document/path/99975"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "通用模型",
+    "url": "/document/path/99875"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "话术推荐模型",
+    "url": "/document/path/99977"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "客户标签模型",
+    "url": "/document/path/99979"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "会话摘要模型",
+    "url": "/document/path/99980"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "情感分析模型",
+    "url": "/document/path/99983"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "自有模型分析",
+    "url": "/document/path/99985"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "会话反垃圾分析",
+    "url": "/document/path/99986"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "会话内容导出",
+    "url": "/document/path/99987"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "异步调用自有分析程序",
+    "url": "/document/path/99988"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "上报异步任务结果",
+    "url": "/document/path/99989"
+  },
+  {
+    "dir": "数据与智能专区/专区程序调用sdk",
+    "file": "专区通知应用",
+    "url": "/document/path/99990"
+  },
+  {
+    "dir": "数据与智能专区/专区程序接收事件通知",
+    "file": "概述",
+    "url": "/document/path/99992"
+  },
+  {
+    "dir": "数据与智能专区/专区程序接收事件通知",
+    "file": "客户同意进行聊天内容存档事件回调",
+    "url": "/document/path/99993"
+  },
+  {
+    "dir": "数据与智能专区/专区程序接收事件通知",
+    "file": "产生会话回调通知",
+    "url": "/document/path/99994"
+  },
+  {
+    "dir": "数据与智能专区/专区程序接收事件通知",
+    "file": "命中关键词规则通知",
+    "url": "/document/path/99995"
+  },
+  {
+    "dir": "数据与智能专区/专区程序接收事件通知",
+    "file": "知识集管理回调",
+    "url": "/document/path/99996"
+  },
+  {
+    "dir": "数据与智能专区/专区程序接收事件通知",
+    "file": "会话内容导出完成通知",
+    "url": "/document/path/99997"
+  },
+  {
+    "dir": "数据与智能专区/应用接收专区通知",
+    "file": "应用接收专区通知",
+    "url": "/document/path/99998"
+  },
+  {
+    "dir": "数据与智能专区/专区调试模式",
+    "file": "调试说明",
+    "url": "/document/path/100086"
+  },
+  {
+    "dir": "数据与智能专区/专区调试模式",
+    "file": "开启专区调试模式",
+    "url": "/document/path/100087"
+  },
+  {
+    "dir": "数据与智能专区/专区调试模式",
+    "file": "关闭专区调试模式",
+    "url": "/document/path/100088"
+  },
+  {
+    "dir": "数据与智能专区/专区调试模式",
+    "file": "获取专区调试模式状态",
+    "url": "/document/path/100113"
+  },
+  {
+    "dir": "数据与智能专区",
+    "file": "常见问题",
+    "url": "/document/path/100142"
+  },
+  {
+    "dir": "客户联系",
+    "file": "概述",
+    "url": "/document/path/92109"
+  },
+  {
+    "dir": "客户联系",
+    "file": "成员对外信息",
+    "url": "/document/path/92230"
+  },
+  {
+    "dir": "客户联系/企业服务人员管理",
+    "file": "获取配置了客户联系功能的成员列表",
+    "url": "/document/path/92571"
+  },
+  {
+    "dir": "客户联系/客户管理",
+    "file": "获取客户列表",
+    "url": "/document/path/92113"
+  },
+  {
+    "dir": "客户联系/客户管理",
+    "file": "获取客户详情",
+    "url": "/document/path/92114"
+  },
+  {
+    "dir": "客户联系/客户管理",
+    "file": "批量获取客户详情",
+    "url": "/document/path/92994"
+  },
+  {
+    "dir": "客户联系/客户管理",
+    "file": "修改客户备注信息",
+    "url": "/document/path/92115"
+  },
+  {
+    "dir": "客户联系/客户管理",
+    "file": "客户联系规则组管理",
+    "url": "/document/path/94883"
+  },
+  {
+    "dir": "客户联系/客户标签管理",
+    "file": "管理企业标签",
+    "url": "/document/path/92117"
+  },
+  {
+    "dir": "客户联系/客户标签管理",
+    "file": "管理企业规则组下的客户标签",
+    "url": "/document/path/94882"
+  },
+  {
+    "dir": "客户联系/客户标签管理",
+    "file": "编辑客户企业标签",
+    "url": "/document/path/92118"
+  },
+  {
+    "dir": "客户联系/在职继承",
+    "file": "分配在职成员的客户",
+    "url": "/document/path/92125"
+  },
+  {
+    "dir": "客户联系/在职继承",
+    "file": "查询客户接替状态",
+    "url": "/document/path/94088"
+  },
+  {
+    "dir": "客户联系/在职继承",
+    "file": "分配在职成员的客户群",
+    "url": "/document/path/95703"
+  },
+  {
+    "dir": "客户联系/离职继承",
+    "file": "获取待分配的离职成员列表",
+    "url": "/document/path/92124"
+  },
+  {
+    "dir": "客户联系/离职继承",
+    "file": "分配离职成员的客户",
+    "url": "/document/path/94081"
+  },
+  {
+    "dir": "客户联系/离职继承",
+    "file": "查询客户接替状态",
+    "url": "/document/path/94082"
+  },
+  {
+    "dir": "客户联系/离职继承",
+    "file": "分配离职成员的客户群",
+    "url": "/document/path/92127"
+  },
+  {
+    "dir": "客户联系/客户群管理",
+    "file": "获取客户群列表",
+    "url": "/document/path/92120"
+  },
+  {
+    "dir": "客户联系/客户群管理",
+    "file": "获取客户群详情",
+    "url": "/document/path/92122"
+  },
+  {
+    "dir": "客户联系/客户群管理",
+    "file": "客户群opengid转换",
+    "url": "/document/path/94822"
+  },
+  {
+    "dir": "客户联系/联系我与客户入群方式",
+    "file": "客户联系「联系我」管理",
+    "url": "/document/path/92228"
+  },
+  {
+    "dir": "客户联系/联系我与客户入群方式",
+    "file": "客户群「加入群聊」管理",
+    "url": "/document/path/92229"
+  },
+  {
+    "dir": "客户联系/客户朋友圈",
+    "file": "概述",
+    "url": "/document/path/93506"
+  },
+  {
+    "dir": "客户联系/客户朋友圈",
+    "file": "企业发表内容到客户的朋友圈",
+    "url": "/document/path/95094"
+  },
+  {
+    "dir": "客户联系/客户朋友圈",
+    "file": "停止发表企业朋友圈",
+    "url": "/document/path/97612"
+  },
+  {
+    "dir": "客户联系/客户朋友圈",
+    "file": "获取客户朋友圈全部的发表记录",
+    "url": "/document/path/93333"
+  },
+  {
+    "dir": "客户联系/客户朋友圈",
+    "file": "客户朋友圈规则组管理",
+    "url": "/document/path/94890"
+  },
+  {
+    "dir": "客户联系/获客助手",
+    "file": "获客链接管理",
+    "url": "/document/path/97297"
+  },
+  {
+    "dir": "客户联系/获客助手",
+    "file": "获取由获客链接添加的客户信息",
+    "url": "/document/path/97298"
+  },
+  {
+    "dir": "客户联系/获客助手",
+    "file": "获客助手额度管理与使用统计",
+    "url": "/document/path/97375"
+  },
+  {
+    "dir": "客户联系/获客助手",
+    "file": "提升广告有效率",
+    "url": "/document/path/99596"
+  },
+  {
+    "dir": "客户联系/获客助手",
+    "file": "获取成员多次收消息详情",
+    "url": "/document/path/100130"
+  },
+  {
+    "dir": "客户联系/消息推送",
+    "file": "创建企业群发",
+    "url": "/document/path/92135"
+  },
+  {
+    "dir": "客户联系/消息推送",
+    "file": "提醒成员群发",
+    "url": "/document/path/97610"
+  },
+  {
+    "dir": "客户联系/消息推送",
+    "file": "停止企业群发",
+    "url": "/document/path/97611"
+  },
+  {
+    "dir": "客户联系/消息推送",
+    "file": "获取企业的全部群发记录",
+    "url": "/document/path/93338"
+  },
+  {
+    "dir": "客户联系/消息推送",
+    "file": "发送新客户欢迎语",
+    "url": "/document/path/92137"
+  },
+  {
+    "dir": "客户联系/消息推送",
+    "file": "入群欢迎语素材管理",
+    "url": "/document/path/92366"
+  },
+  {
+    "dir": "客户联系/统计管理",
+    "file": "获取「联系客户统计」数据",
+    "url": "/document/path/92132"
+  },
+  {
+    "dir": "客户联系/统计管理",
+    "file": "获取「群聊数据统计」数据",
+    "url": "/document/path/92133"
+  },
+  {
+    "dir": "客户联系/回调通知",
+    "file": "概述",
+    "url": "/document/path/92129"
+  },
+  {
+    "dir": "客户联系/回调通知",
+    "file": "事件格式",
+    "url": "/document/path/92130"
+  },
+  {
+    "dir": "客户联系/回调通知",
+    "file": "获客助手事件通知",
+    "url": "/document/path/97299"
+  },
+  {
+    "dir": "客户联系",
+    "file": "管理商品图册",
+    "url": "/document/path/95096"
+  },
+  {
+    "dir": "客户联系",
+    "file": "管理聊天敏感词",
+    "url": "/document/path/95097"
+  },
+  {
+    "dir": "客户联系",
+    "file": "上传附件资源",
+    "url": "/document/path/95098"
+  },
+  {
+    "dir": "客户联系",
+    "file": "获取已服务的外部联系人",
+    "url": "/document/path/99434"
+  },
+  {
+    "dir": "微信客服",
+    "file": "概述",
+    "url": "/document/path/94638"
+  },
+  {
+    "dir": "微信客服/客服账号管理",
+    "file": "添加客服账号",
+    "url": "/document/path/94662"
+  },
+  {
+    "dir": "微信客服/客服账号管理",
+    "file": "删除客服账号",
+    "url": "/document/path/94663"
+  },
+  {
+    "dir": "微信客服/客服账号管理",
+    "file": "修改客服账号",
+    "url": "/document/path/94664"
+  },
+  {
+    "dir": "微信客服/客服账号管理",
+    "file": "获取客服账号列表",
+    "url": "/document/path/94661"
+  },
+  {
+    "dir": "微信客服/客服账号管理",
+    "file": "获取客服账号链接",
+    "url": "/document/path/94665"
+  },
+  {
+    "dir": "微信客服/接待人员管理",
+    "file": "添加接待人员",
+    "url": "/document/path/94646"
+  },
+  {
+    "dir": "微信客服/接待人员管理",
+    "file": "删除接待人员",
+    "url": "/document/path/94647"
+  },
+  {
+    "dir": "微信客服/接待人员管理",
+    "file": "获取接待人员列表",
+    "url": "/document/path/94645"
+  },
+  {
+    "dir": "微信客服/会话分配与消息收发",
+    "file": "分配客服会话",
+    "url": "/document/path/94669"
+  },
+  {
+    "dir": "微信客服/会话分配与消息收发",
+    "file": "接收消息和事件",
+    "url": "/document/path/94670"
+  },
+  {
+    "dir": "微信客服/会话分配与消息收发",
+    "file": "发送消息",
+    "url": "/document/path/94677"
+  },
+  {
+    "dir": "微信客服/会话分配与消息收发",
+    "file": "发送欢迎语等事件响应消息",
+    "url": "/document/path/95122"
+  },
+  {
+    "dir": "微信客服",
+    "file": "「升级服务」配置",
+    "url": "/document/path/94674"
+  },
+  {
+    "dir": "微信客服/其他基础信息获取",
+    "file": "获取客户基础信息",
+    "url": "/document/path/95159"
+  },
+  {
+    "dir": "微信客服/统计管理",
+    "file": "获取「客户数据统计」企业汇总数据",
+    "url": "/document/path/95489"
+  },
+  {
+    "dir": "微信客服/统计管理",
+    "file": "获取「客户数据统计」接待人员明细数据",
+    "url": "/document/path/95490"
+  },
+  {
+    "dir": "微信客服/机器人管理",
+    "file": "知识库分组管理",
+    "url": "/document/path/95971"
+  },
+  {
+    "dir": "微信客服/机器人管理",
+    "file": "知识库问答管理",
+    "url": "/document/path/95972"
+  },
+  {
+    "dir": "微信客服",
+    "file": "回调通知",
+    "url": "/document/path/97712"
+  },
+  {
+    "dir": "企业支付",
+    "file": "概述",
+    "url": "/document/path/90273"
+  },
+  {
+    "dir": "企业支付/企业红包",
+    "file": "发放企业红包",
+    "url": "/document/path/90275"
+  },
+  {
+    "dir": "企业支付/企业红包",
+    "file": "查询红包记录",
+    "url": "/document/path/90276"
+  },
+  {
+    "dir": "企业支付/向员工付款",
+    "file": "向员工付款",
+    "url": "/document/path/90278"
+  },
+  {
+    "dir": "企业支付/向员工付款",
+    "file": "查询付款记录",
+    "url": "/document/path/90279"
+  },
+  {
+    "dir": "企业支付",
+    "file": "向员工收款",
+    "url": "/document/path/90280"
+  },
+  {
+    "dir": "企业支付/对外收款",
+    "file": "概述",
+    "url": "/document/path/93665"
+  },
+  {
+    "dir": "企业支付/对外收款",
+    "file": "收款商户号管理",
+    "url": "/document/path/93666"
+  },
+  {
+    "dir": "企业支付/对外收款",
+    "file": "获取对外收款记录",
+    "url": "/document/path/93667"
+  },
+  {
+    "dir": "企业支付/对外收款",
+    "file": "获取收款项目的商户单号",
+    "url": "/document/path/95944"
+  },
+  {
+    "dir": "企业支付/对外收款",
+    "file": "获取资金流水",
+    "url": "/document/path/98100"
+  },
+  {
+    "dir": "企业支付",
+    "file": "签名算法",
+    "url": "/document/path/90281"
+  },
+  {
+    "dir": "企业支付/创建对外收款账户",
+    "file": "提交创建对外收款账户的申请单",
+    "url": "/document/path/98973"
+  },
+  {
+    "dir": "企业支付/创建对外收款账户",
+    "file": "查询申请单状态",
+    "url": "/document/path/98974"
+  },
+  {
+    "dir": "企业支付/创建对外收款账户",
+    "file": "提交图片",
+    "url": "/document/path/98972"
+  },
+  {
+    "dir": "小程序接入对外收款",
+    "file": "概述",
+    "url": "/document/path/98723"
+  },
+  {
+    "dir": "小程序接入对外收款/普通支付",
+    "file": "小程序下单",
+    "url": "/document/path/97322"
+  },
+  {
+    "dir": "小程序接入对外收款/普通支付",
+    "file": "查询订单",
+    "url": "/document/path/97323"
+  },
+  {
+    "dir": "小程序接入对外收款/普通支付",
+    "file": "关闭订单",
+    "url": "/document/path/97324"
+  },
+  {
+    "dir": "小程序接入对外收款/普通支付",
+    "file": "获取支付签名",
+    "url": "/document/path/98130"
+  },
+  {
+    "dir": "小程序接入对外收款/退款",
+    "file": "申请退款",
+    "url": "/document/path/97333"
+  },
+  {
+    "dir": "小程序接入对外收款/退款",
+    "file": "查询退款",
+    "url": "/document/path/97352"
+  },
+  {
+    "dir": "小程序接入对外收款/回调通知",
+    "file": "概述",
+    "url": "/document/path/97478"
+  },
+  {
+    "dir": "小程序接入对外收款/回调通知",
+    "file": "支付通知",
+    "url": "/document/path/97335"
+  },
+  {
+    "dir": "小程序接入对外收款/回调通知",
+    "file": "退款通知",
+    "url": "/document/path/97338"
+  },
+  {
+    "dir": "小程序接入对外收款/账单",
+    "file": "交易账单申请",
+    "url": "/document/path/98115"
+  },
+  {
+    "dir": "会话内容存档",
+    "file": "概述",
+    "url": "/document/path/91360"
+  },
+  {
+    "dir": "会话内容存档",
+    "file": "使用前帮助",
+    "url": "/document/path/91361"
+  },
+  {
+    "dir": "会话内容存档",
+    "file": "获取会话内容",
+    "url": "/document/path/91774"
+  },
+  {
+    "dir": "会话内容存档",
+    "file": "开发案例演示",
+    "url": "/document/path/91551"
+  },
+  {
+    "dir": "会话内容存档",
+    "file": "常见问题解答",
+    "url": "/document/path/91552"
+  },
+  {
+    "dir": "会话内容存档",
+    "file": "获取会话内容存档开启成员列表",
+    "url": "/document/path/91614"
+  },
+  {
+    "dir": "会话内容存档",
+    "file": "获取会话同意情况",
+    "url": "/document/path/91782"
+  },
+  {
+    "dir": "会话内容存档",
+    "file": "客户同意进行聊天内容存档事件回调",
+    "url": "/document/path/92005"
+  },
+  {
+    "dir": "会话内容存档",
+    "file": "获取会话内容存档内部群信息",
+    "url": "/document/path/92951"
+  },
+  {
+    "dir": "会话内容存档",
+    "file": "产生会话回调事件",
+    "url": "/document/path/95039"
+  },
+  {
+    "dir": "家校沟通",
+    "file": "概述",
+    "url": "/document/path/91638"
+  },
+  {
+    "dir": "家校沟通/基础接口",
+    "file": "获取「学校通知」二维码",
+    "url": "/document/path/92320"
+  },
+  {
+    "dir": "家校沟通/基础接口",
+    "file": "管理「学校通知」的关注模式",
+    "url": "/document/path/92318"
+  },
+  {
+    "dir": "家校沟通/基础接口",
+    "file": "发送「学校通知」",
+    "url": "/document/path/92321"
+  },
+  {
+    "dir": "家校沟通/基础接口",
+    "file": "管理「班级群创建方式」",
+    "url": "/document/path/92430"
+  },
+  {
+    "dir": "家校沟通/基础接口",
+    "file": "外部联系人openid转换",
+    "url": "/document/path/92323"
+  },
+  {
+    "dir": "家校沟通/基础接口",
+    "file": "获取可使用的家长范围",
+    "url": "/document/path/94895"
+  },
+  {
+    "dir": "家校沟通/网页授权登录",
+    "file": "开始开发",
+    "url": "/document/path/91856"
+  },
+  {
+    "dir": "家校沟通/网页授权登录",
+    "file": "构造网页授权链接",
+    "url": "/document/path/91857"
+  },
+  {
+    "dir": "家校沟通/网页授权登录",
+    "file": "获取访问用户身份",
+    "url": "/document/path/91707"
+  },
+  {
+    "dir": "家校沟通/网页授权登录",
+    "file": "获取家校访问用户身份",
+    "url": "/document/path/95791"
+  },
+  {
+    "dir": "家校沟通/学生与家长管理",
+    "file": "创建学生",
+    "url": "/document/path/92325"
+  },
+  {
+    "dir": "家校沟通/学生与家长管理",
+    "file": "删除学生",
+    "url": "/document/path/92326"
+  },
+  {
+    "dir": "家校沟通/学生与家长管理",
+    "file": "更新学生",
+    "url": "/document/path/92327"
+  },
+  {
+    "dir": "家校沟通/学生与家长管理",
+    "file": "批量创建学生",
+    "url": "/document/path/92328"
+  },
+  {
+    "dir": "家校沟通/学生与家长管理",
+    "file": "批量删除学生",
+    "url": "/document/path/92329"
+  },
+  {
+    "dir": "家校沟通/学生与家长管理",
+    "file": "批量更新学生",
+    "url": "/document/path/92330"
+  },
+  {
+    "dir": "家校沟通/学生与家长管理",
+    "file": "创建家长",
+    "url": "/document/path/92331"
+  },
+  {
+    "dir": "家校沟通/学生与家长管理",
+    "file": "删除家长",
+    "url": "/document/path/92332"
+  },
+  {
+    "dir": "家校沟通/学生与家长管理",
+    "file": "更新家长",
+    "url": "/document/path/92333"
+  },
+  {
+    "dir": "家校沟通/学生与家长管理",
+    "file": "批量创建家长",
+    "url": "/document/path/92334"
+  },
+  {
+    "dir": "家校沟通/学生与家长管理",
+    "file": "批量删除家长",
+    "url": "/document/path/92335"
+  },
+  {
+    "dir": "家校沟通/学生与家长管理",
+    "file": "批量更新家长",
+    "url": "/document/path/92336"
+  },
+  {
+    "dir": "家校沟通/学生与家长管理",
+    "file": "读取学生或家长",
+    "url": "/document/path/92337"
+  },
+  {
+    "dir": "家校沟通/学生与家长管理",
+    "file": "获取部门学生详情",
+    "url": "/document/path/92338"
+  },
+  {
+    "dir": "家校沟通/学生与家长管理",
+    "file": "设置家校通讯录自动同步模式",
+    "url": "/document/path/92345"
+  },
+  {
+    "dir": "家校沟通/学生与家长管理",
+    "file": "获取部门家长详情",
+    "url": "/document/path/92446"
+  },
+  {
+    "dir": "家校沟通/部门管理",
+    "file": "创建部门",
+    "url": "/document/path/92340"
+  },
+  {
+    "dir": "家校沟通/部门管理",
+    "file": "更新部门",
+    "url": "/document/path/92341"
+  },
+  {
+    "dir": "家校沟通/部门管理",
+    "file": "删除部门",
+    "url": "/document/path/92342"
+  },
+  {
+    "dir": "家校沟通/部门管理",
+    "file": "获取部门列表",
+    "url": "/document/path/92343"
+  },
+  {
+    "dir": "家校沟通/部门管理",
+    "file": "标准年级对照表",
+    "url": "/document/path/92344"
+  },
+  {
+    "dir": "家校沟通/部门管理",
+    "file": "修改自动升年级的配置",
+    "url": "/document/path/92949"
+  },
+  {
+    "dir": "家校沟通/家校通讯录变更回调",
+    "file": "成员变更事件",
+    "url": "/document/path/92032"
+  },
+  {
+    "dir": "家校沟通/家校通讯录变更回调",
+    "file": "部门变更事件",
+    "url": "/document/path/92052"
+  },
+  {
+    "dir": "家校应用/健康上报",
+    "file": "获取健康上报使用统计",
+    "url": "/document/path/93676"
+  },
+  {
+    "dir": "家校应用/健康上报",
+    "file": "获取健康上报任务ID列表",
+    "url": "/document/path/93677"
+  },
+  {
+    "dir": "家校应用/健康上报",
+    "file": "获取健康上报任务详情",
+    "url": "/document/path/93678"
+  },
+  {
+    "dir": "家校应用/健康上报",
+    "file": "获取用户填写答案",
+    "url": "/document/path/93679"
+  },
+  {
+    "dir": "家校应用/上课直播",
+    "file": "获取老师直播ID列表",
+    "url": "/document/path/93739"
+  },
+  {
+    "dir": "家校应用/上课直播",
+    "file": "获取直播详情",
+    "url": "/document/path/93740"
+  },
+  {
+    "dir": "家校应用/上课直播",
+    "file": "获取观看直播统计",
+    "url": "/document/path/93741"
+  },
+  {
+    "dir": "家校应用/上课直播",
+    "file": "获取未观看直播统计",
+    "url": "/document/path/93742"
+  },
+  {
+    "dir": "家校应用/上课直播",
+    "file": "删除直播回放",
+    "url": "/document/path/93743"
+  },
+  {
+    "dir": "家校应用/上课直播",
+    "file": "获取观看直播统计V2",
+    "url": "/document/path/95793"
+  },
+  {
+    "dir": "家校应用/上课直播",
+    "file": "获取未观看直播统计V2",
+    "url": "/document/path/95795"
+  },
+  {
+    "dir": "家校应用/班级收款",
+    "file": "获取学生付款结果",
+    "url": "/document/path/94470"
+  },
+  {
+    "dir": "家校应用/班级收款",
+    "file": "获取订单详情",
+    "url": "/document/path/94471"
+  },
+  {
+    "dir": "政民沟通/配置网格结构",
+    "file": "概述",
+    "url": "/document/path/94557"
+  },
+  {
+    "dir": "政民沟通/配置网格结构",
+    "file": "添加网格",
+    "url": "/document/path/94478"
+  },
+  {
+    "dir": "政民沟通/配置网格结构",
+    "file": "编辑网格",
+    "url": "/document/path/94479"
+  },
+  {
+    "dir": "政民沟通/配置网格结构",
+    "file": "删除网格",
+    "url": "/document/path/94480"
+  },
+  {
+    "dir": "政民沟通/配置网格结构",
+    "file": "获取网格列表",
+    "url": "/document/path/94481"
+  },
+  {
+    "dir": "政民沟通/配置网格结构",
+    "file": "获取用户负责及参与的网格列表",
+    "url": "/document/path/94482"
+  },
+  {
+    "dir": "政民沟通/配置事件类别",
+    "file": "添加事件类别",
+    "url": "/document/path/94536"
+  },
+  {
+    "dir": "政民沟通/配置事件类别",
+    "file": "修改事件类别",
+    "url": "/document/path/94537"
+  },
+  {
+    "dir": "政民沟通/配置事件类别",
+    "file": "删除事件类别",
+    "url": "/document/path/94538"
+  },
+  {
+    "dir": "政民沟通/配置事件类别",
+    "file": "获取事件类别列表",
+    "url": "/document/path/94540"
+  },
+  {
+    "dir": "政民沟通/巡查上报",
+    "file": "概述",
+    "url": "/document/path/93520"
+  },
+  {
+    "dir": "政民沟通/巡查上报",
+    "file": "获取配置的网格及网格负责人",
+    "url": "/document/path/93531"
+  },
+  {
+    "dir": "政民沟通/巡查上报",
+    "file": "获取单位巡查上报数据统计",
+    "url": "/document/path/93532"
+  },
+  {
+    "dir": "政民沟通/巡查上报",
+    "file": "获取个人巡查上报数据统计",
+    "url": "/document/path/93533"
+  },
+  {
+    "dir": "政民沟通/巡查上报",
+    "file": "获取上报事件分类统计",
+    "url": "/document/path/93534"
+  },
+  {
+    "dir": "政民沟通/巡查上报",
+    "file": "获取巡查上报事件列表",
+    "url": "/document/path/93536"
+  },
+  {
+    "dir": "政民沟通/巡查上报",
+    "file": "获取巡查上报的事件详情信息",
+    "url": "/document/path/93535"
+  },
+  {
+    "dir": "政民沟通/居民上报",
+    "file": "概述",
+    "url": "/document/path/93513"
+  },
+  {
+    "dir": "政民沟通/居民上报",
+    "file": "获取配置的网格及网格负责人",
+    "url": "/document/path/93514"
+  },
+  {
+    "dir": "政民沟通/居民上报",
+    "file": "获取单位居民上报数据统计",
+    "url": "/document/path/93515"
+  },
+  {
+    "dir": "政民沟通/居民上报",
+    "file": "获取个人居民上报数据统计",
+    "url": "/document/path/93516"
+  },
+  {
+    "dir": "政民沟通/居民上报",
+    "file": "获取上报事件分类统计",
+    "url": "/document/path/93517"
+  },
+  {
+    "dir": "政民沟通/居民上报",
+    "file": "获取居民上报事件列表",
+    "url": "/document/path/93518"
+  },
+  {
+    "dir": "政民沟通/居民上报",
+    "file": "获取居民上报的事件详情信息",
+    "url": "/document/path/93519"
+  },
+  {
+    "dir": "邮件",
+    "file": "概述",
+    "url": "/document/path/95486"
+  },
+  {
+    "dir": "邮件/发送邮件",
+    "file": "发送普通邮件",
+    "url": "/document/path/97445"
+  },
+  {
+    "dir": "邮件/发送邮件",
+    "file": "发送日程邮件",
+    "url": "/document/path/97854"
+  },
+  {
+    "dir": "邮件/发送邮件",
+    "file": "发送会议邮件",
+    "url": "/document/path/97855"
+  },
+  {
+    "dir": "邮件/获取接收的邮件",
+    "file": "获取收件箱邮件列表",
+    "url": "/document/path/97369"
+  },
+  {
+    "dir": "邮件/获取接收的邮件",
+    "file": "获取邮件内容",
+    "url": "/document/path/97979"
+  },
+  {
+    "dir": "邮件/管理应用邮箱账号",
+    "file": "更新应用邮箱账号",
+    "url": "/document/path/97373"
+  },
+  {
+    "dir": "邮件/管理应用邮箱账号",
+    "file": "查询应用邮箱账号",
+    "url": "/document/path/97991"
+  },
+  {
+    "dir": "邮件/管理邮件群组",
+    "file": "创建邮件群组",
+    "url": "/document/path/95510"
+  },
+  {
+    "dir": "邮件/管理邮件群组",
+    "file": "更新邮件群组",
+    "url": "/document/path/97995"
+  },
+  {
+    "dir": "邮件/管理邮件群组",
+    "file": "删除邮件群组",
+    "url": "/document/path/97996"
+  },
+  {
+    "dir": "邮件/管理邮件群组",
+    "file": "获取邮件群组详情",
+    "url": "/document/path/97997"
+  },
+  {
+    "dir": "邮件/管理邮件群组",
+    "file": "模糊搜索邮件群组",
+    "url": "/document/path/97998"
+  },
+  {
+    "dir": "邮件/管理公共邮箱",
+    "file": "创建公共邮箱",
+    "url": "/document/path/95511"
+  },
+  {
+    "dir": "邮件/管理公共邮箱",
+    "file": "更新公共邮箱",
+    "url": "/document/path/98000"
+  },
+  {
+    "dir": "邮件/管理公共邮箱",
+    "file": "删除公共邮箱",
+    "url": "/document/path/98001"
+  },
+  {
+    "dir": "邮件/管理公共邮箱",
+    "file": "获取公共邮箱详情",
+    "url": "/document/path/98002"
+  },
+  {
+    "dir": "邮件/管理公共邮箱",
+    "file": "模糊搜索公共邮箱",
+    "url": "/document/path/98003"
+  },
+  {
+    "dir": "邮件/管理公共邮箱",
+    "file": "回调通知",
+    "url": "/document/path/100180"
+  },
+  {
+    "dir": "邮件/管理公共邮箱",
+    "file": "获取客户端专用密码列表",
+    "url": "/document/path/100183"
+  },
+  {
+    "dir": "邮件/管理公共邮箱",
+    "file": "删除客户端专用密码",
+    "url": "/document/path/100184"
+  },
+  {
+    "dir": "邮件/高级功能账号管理",
+    "file": "分配高级功能账号",
+    "url": "/document/path/99316"
+  },
+  {
+    "dir": "邮件/高级功能账号管理",
+    "file": "取消高级功能账号",
+    "url": "/document/path/99317"
+  },
+  {
+    "dir": "邮件/高级功能账号管理",
+    "file": "获取高级功能账号列表",
+    "url": "/document/path/99318"
+  },
+  {
+    "dir": "邮件",
+    "file": "禁用/启用邮箱账号",
+    "url": "/document/path/95512"
+  },
+  {
+    "dir": "邮件/其他邮件客户端登录设置",
+    "file": "获取用户功能属性",
+    "url": "/document/path/95513"
+  },
+  {
+    "dir": "邮件/其他邮件客户端登录设置",
+    "file": "更改用户功能属性",
+    "url": "/document/path/98008"
+  },
+  {
+    "dir": "邮件",
+    "file": "获取邮件未读数",
+    "url": "/document/path/95514"
+  },
+  {
+    "dir": "邮件",
+    "file": "回调通知",
+    "url": "/document/path/97495"
+  },
+  {
+    "dir": "文档",
+    "file": "概述",
+    "url": "/document/path/97392"
+  },
+  {
+    "dir": "文档/管理文档",
+    "file": "新建文档",
+    "url": "/document/path/97460"
+  },
+  {
+    "dir": "文档/管理文档",
+    "file": "重命名文档",
+    "url": "/document/path/97736"
+  },
+  {
+    "dir": "文档/管理文档",
+    "file": "删除文档",
+    "url": "/document/path/97735"
+  },
+  {
+    "dir": "文档/管理文档",
+    "file": "获取文档基础信息",
+    "url": "/document/path/97734"
+  },
+  {
+    "dir": "文档/管理文档",
+    "file": "分享文档",
+    "url": "/document/path/97733"
+  },
+  {
+    "dir": "文档/管理文档内容",
+    "file": "编辑文档内容",
+    "url": "/document/path/97626"
+  },
+  {
+    "dir": "文档/管理文档内容",
+    "file": "获取文档数据",
+    "url": "/document/path/101161"
+  },
+  {
+    "dir": "文档/管理表格内容",
+    "file": "编辑表格内容",
+    "url": "/document/path/101168"
+  },
+  {
+    "dir": "文档/管理表格内容",
+    "file": "获取表格行列信息",
+    "url": "/document/path/97711"
+  },
+  {
+    "dir": "文档/管理表格内容",
+    "file": "获取表格数据",
+    "url": "/document/path/97661"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "添加子表",
+    "url": "/document/path/99896"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "删除子表",
+    "url": "/document/path/99899"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "更新子表",
+    "url": "/document/path/99898"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "查询子表",
+    "url": "/document/path/101154"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "添加视图",
+    "url": "/document/path/99900"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "删除视图",
+    "url": "/document/path/99901"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "更新视图",
+    "url": "/document/path/99902"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "查询视图",
+    "url": "/document/path/101155"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "添加字段",
+    "url": "/document/path/99904"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "删除字段",
+    "url": "/document/path/99905"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "更新字段",
+    "url": "/document/path/99906"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "查询字段",
+    "url": "/document/path/101157"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "添加记录",
+    "url": "/document/path/99907"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "删除记录",
+    "url": "/document/path/99908"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "更新记录",
+    "url": "/document/path/99909"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "查询记录",
+    "url": "/document/path/101158"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "添加编组",
+    "url": "/document/path/101100"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "删除编组",
+    "url": "/document/path/101102"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "更新编组",
+    "url": "/document/path/101101"
+  },
+  {
+    "dir": "文档/管理智能表格内容",
+    "file": "获取编组",
+    "url": "/document/path/101103"
+  },
+  {
+    "dir": "文档/设置文档权限",
+    "file": "获取文档权限信息",
+    "url": "/document/path/97461"
+  },
+  {
+    "dir": "文档/设置文档权限",
+    "file": "修改文档查看规则",
+    "url": "/document/path/97778"
+  },
+  {
+    "dir": "文档/设置文档权限",
+    "file": "修改文档通知范围及权限",
+    "url": "/document/path/97781"
+  },
+  {
+    "dir": "文档/设置文档权限",
+    "file": "修改文档安全设置",
+    "url": "/document/path/97782"
+  },
+  {
+    "dir": "文档/设置文档权限",
+    "file": "管理智能表格内容权限",
+    "url": "/document/path/99935"
+  },
+  {
+    "dir": "文档/管理收集表",
+    "file": "创建收集表",
+    "url": "/document/path/97462"
+  },
+  {
+    "dir": "文档/管理收集表",
+    "file": "编辑收集表",
+    "url": "/document/path/97816"
+  },
+  {
+    "dir": "文档/管理收集表",
+    "file": "获取收集表信息",
+    "url": "/document/path/97817"
+  },
+  {
+    "dir": "文档/管理收集表",
+    "file": "收集表的统计信息查询",
+    "url": "/document/path/97818"
+  },
+  {
+    "dir": "文档/管理收集表",
+    "file": "读取收集表答案",
+    "url": "/document/path/97819"
+  },
+  {
+    "dir": "文档/回调通知",
+    "file": "概述",
+    "url": "/document/path/97316"
+  },
+  {
+    "dir": "文档/回调通知",
+    "file": "修改文档成员事件",
+    "url": "/document/path/97833"
+  },
+  {
+    "dir": "文档/回调通知",
+    "file": "删除文档事件",
+    "url": "/document/path/97834"
+  },
+  {
+    "dir": "文档/回调通知",
+    "file": "收集表完成事件",
+    "url": "/document/path/97835"
+  },
+  {
+    "dir": "文档/回调通知",
+    "file": "删除收集表事件",
+    "url": "/document/path/98095"
+  },
+  {
+    "dir": "文档/回调通知",
+    "file": "修改收集表设置事件",
+    "url": "/document/path/98096"
+  },
+  {
+    "dir": "文档/回调通知",
+    "file": "字段变更事件",
+    "url": "/document/path/100987"
+  },
+  {
+    "dir": "文档/回调通知",
+    "file": "记录变更事件",
+    "url": "/document/path/100986"
+  },
+  {
+    "dir": "文档/接收外部数据到智能表格",
+    "file": "概述",
+    "url": "/document/path/101239"
+  },
+  {
+    "dir": "文档/接收外部数据到智能表格",
+    "file": "添加记录",
+    "url": "/document/path/101240"
+  },
+  {
+    "dir": "文档/接收外部数据到智能表格",
+    "file": "更新记录",
+    "url": "/document/path/101241"
+  },
+  {
+    "dir": "文档/高级功能账号管理",
+    "file": "分配高级功能账号",
+    "url": "/document/path/99516"
+  },
+  {
+    "dir": "文档/高级功能账号管理",
+    "file": "取消高级功能账号",
+    "url": "/document/path/99517"
+  },
+  {
+    "dir": "文档/高级功能账号管理",
+    "file": "获取高级功能账号列表",
+    "url": "/document/path/99518"
+  },
+  {
+    "dir": "文档/素材管理",
+    "file": "上传文档图片",
+    "url": "/document/path/99933"
+  },
+  {
+    "dir": "日程",
+    "file": "概述",
+    "url": "/document/path/93624"
+  },
+  {
+    "dir": "日程/管理日历",
+    "file": "创建日历",
+    "url": "/document/path/93647"
+  },
+  {
+    "dir": "日程/管理日历",
+    "file": "更新日历",
+    "url": "/document/path/97716"
+  },
+  {
+    "dir": "日程/管理日历",
+    "file": "获取日历详情",
+    "url": "/document/path/97717"
+  },
+  {
+    "dir": "日程/管理日历",
+    "file": "删除日历",
+    "url": "/document/path/97718"
+  },
+  {
+    "dir": "日程/管理日程",
+    "file": "创建日程",
+    "url": "/document/path/93648"
+  },
+  {
+    "dir": "日程/管理日程",
+    "file": "更新日程",
+    "url": "/document/path/97720"
+  },
+  {
+    "dir": "日程/管理日程",
+    "file": "更新重复日程",
+    "url": "/document/path/96204"
+  },
+  {
+    "dir": "日程/管理日程",
+    "file": "新增日程参与者",
+    "url": "/document/path/97721"
+  },
+  {
+    "dir": "日程/管理日程",
+    "file": "删除日程参与者",
+    "url": "/document/path/97722"
+  },
+  {
+    "dir": "日程/管理日程",
+    "file": "获取日历下的日程列表",
+    "url": "/document/path/97723"
+  },
+  {
+    "dir": "日程/管理日程",
+    "file": "获取日程详情",
+    "url": "/document/path/97724"
+  },
+  {
+    "dir": "日程/管理日程",
+    "file": "取消日程",
+    "url": "/document/path/97725"
+  },
+  {
+    "dir": "日程/回调通知",
+    "file": "概述",
+    "url": "/document/path/93651"
+  },
+  {
+    "dir": "日程/回调通知",
+    "file": "删除日历事件",
+    "url": "/document/path/97728"
+  },
+  {
+    "dir": "日程/回调通知",
+    "file": "修改日历事件",
+    "url": "/document/path/97730"
+  },
+  {
+    "dir": "日程/回调通知",
+    "file": "修改日程事件",
+    "url": "/document/path/97731"
+  },
+  {
+    "dir": "日程/回调通知",
+    "file": "删除日程事件",
+    "url": "/document/path/97732"
+  },
+  {
+    "dir": "日程/回调通知",
+    "file": "日程回执事件",
+    "url": "/document/path/98111"
+  },
+  {
+    "dir": "会议",
+    "file": "概述",
+    "url": "/document/path/93626"
+  },
+  {
+    "dir": "会议/预约会议基础管理",
+    "file": "创建预约会议",
+    "url": "/document/path/99104"
+  },
+  {
+    "dir": "会议/预约会议基础管理",
+    "file": "修改预约会议",
+    "url": "/document/path/99047"
+  },
+  {
+    "dir": "会议/预约会议基础管理",
+    "file": "取消预约会议",
+    "url": "/document/path/99048"
+  },
+  {
+    "dir": "会议/预约会议基础管理",
+    "file": "获取会议详情",
+    "url": "/document/path/99049"
+  },
+  {
+    "dir": "会议/预约会议基础管理",
+    "file": "获取成员会议ID列表",
+    "url": "/document/path/99050"
+  },
+  {
+    "dir": "会议/会议统计管理",
+    "file": "获取会议发起记录",
+    "url": "/document/path/99651"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "创建预约会议",
+    "url": "/document/path/98148"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "修改预约会议",
+    "url": "/document/path/98154"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "取消预约会议",
+    "url": "/document/path/98153"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "获取会议详情",
+    "url": "/document/path/98149"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "获取会议受邀成员列表",
+    "url": "/document/path/98160"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "更新会议受邀成员列表",
+    "url": "/document/path/98162"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "获取成员会议ID列表",
+    "url": "/document/path/98714"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "创建用户专属参会链接",
+    "url": "/document/path/98818"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "获取用户专属参会链接",
+    "url": "/document/path/98819"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "获取实时会中成员列表",
+    "url": "/document/path/98157"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "获取已参会成员列表",
+    "url": "/document/path/98156"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "获取实时等候室成员列表",
+    "url": "/document/path/98163"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "获取等候室成员记录",
+    "url": "/document/path/98164"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "获取成员设备是否入会",
+    "url": "/document/path/98165"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "获取会议嘉宾列表",
+    "url": "/document/path/99039"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "更新会议嘉宾列表",
+    "url": "/document/path/99040"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "获取会议健康度",
+    "url": "/document/path/98821"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "修改会议报名配置",
+    "url": "/document/path/98797"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "获取会议报名配置",
+    "url": "/document/path/98800"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "获取会议成员报名 ID",
+    "url": "/document/path/98794"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "获取会议报名信息",
+    "url": "/document/path/98810"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "审批会议报名信息",
+    "url": "/document/path/98807"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "导入会议报名信息",
+    "url": "/document/path/98816"
+  },
+  {
+    "dir": "会议/预约会议高级管理",
+    "file": "删除会议报名信息",
+    "url": "/document/path/98817"
+  },
+  {
+    "dir": "会议/会中控制管理",
+    "file": "管理会中设置",
+    "url": "/document/path/98175"
+  },
+  {
+    "dir": "会议/会中控制管理",
+    "file": "管理联席主持人",
+    "url": "/document/path/98180"
+  },
+  {
+    "dir": "会议/会中控制管理",
+    "file": "静音成员",
+    "url": "/document/path/98184"
+  },
+  {
+    "dir": "会议/会中控制管理",
+    "file": "关闭或开启成员视频",
+    "url": "/document/path/98189"
+  },
+  {
+    "dir": "会议/会中控制管理",
+    "file": "关闭成员屏幕共享",
+    "url": "/document/path/98185"
+  },
+  {
+    "dir": "会议/会中控制管理",
+    "file": "修改成员在会中显示的昵称",
+    "url": "/document/path/98188"
+  },
+  {
+    "dir": "会议/会中控制管理",
+    "file": "管理等候室成员",
+    "url": "/document/path/98186"
+  },
+  {
+    "dir": "会议/会中控制管理",
+    "file": "移出成员",
+    "url": "/document/path/98181"
+  },
+  {
+    "dir": "会议/会中控制管理",
+    "file": "结束会议",
+    "url": "/document/path/98187"
+  },
+  {
+    "dir": "会议/会中控制管理",
+    "file": "创建会议投票主题",
+    "url": "/document/path/98834"
+  },
+  {
+    "dir": "会议/会中控制管理",
+    "file": "修改会议投票主题",
+    "url": "/document/path/98835"
+  },
+  {
+    "dir": "会议/会中控制管理",
+    "file": "获取会议投票列表",
+    "url": "/document/path/98836"
+  },
+  {
+    "dir": "会议/会中控制管理",
+    "file": "获取会议投票主题信息",
+    "url": "/document/path/98837"
+  },
+  {
+    "dir": "会议/会中控制管理",
+    "file": "获取会议投票详情",
+    "url": "/document/path/98838"
+  },
+  {
+    "dir": "会议/会中控制管理",
+    "file": "删除会议投票",
+    "url": "/document/path/98839"
+  },
+  {
+    "dir": "会议/会中控制管理",
+    "file": "发起会议投票",
+    "url": "/document/path/98840"
+  },
+  {
+    "dir": "会议/会中控制管理",
+    "file": "结束会议投票",
+    "url": "/document/path/98841"
+  },
+  {
+    "dir": "会议/网络研讨会 (Webinar) 管理",
+    "file": "创建网络研讨会",
+    "url": "/document/path/98842"
+  },
+  {
+    "dir": "会议/网络研讨会 (Webinar) 管理",
+    "file": "修改网络研讨会",
+    "url": "/document/path/98843"
+  },
+  {
+    "dir": "会议/网络研讨会 (Webinar) 管理",
+    "file": "取消网络研讨会",
+    "url": "/document/path/98870"
+  },
+  {
+    "dir": "会议/网络研讨会 (Webinar) 管理",
+    "file": "获取网络研讨会详情",
+    "url": "/document/path/98860"
+  },
+  {
+    "dir": "会议/网络研讨会 (Webinar) 管理",
+    "file": "获取网络研讨会嘉宾列表",
+    "url": "/document/path/98871"
+  },
+  {
+    "dir": "会议/网络研讨会 (Webinar) 管理",
+    "file": "更新网络研讨会嘉宾列表",
+    "url": "/document/path/98872"
+  },
+  {
+    "dir": "会议/网络研讨会 (Webinar) 管理",
+    "file": "管理网络研讨会暖场配置",
+    "url": "/document/path/98882"
+  },
+  {
+    "dir": "会议/网络研讨会 (Webinar) 管理",
+    "file": "修改网络研讨会报名配置",
+    "url": "/document/path/98875"
+  },
+  {
+    "dir": "会议/网络研讨会 (Webinar) 管理",
+    "file": "获取网络研讨会报名配置",
+    "url": "/document/path/98874"
+  },
+  {
+    "dir": "会议/网络研讨会 (Webinar) 管理",
+    "file": "获取网络研讨会成员报名 ID",
+    "url": "/document/path/98873"
+  },
+  {
+    "dir": "会议/网络研讨会 (Webinar) 管理",
+    "file": "获取网络研讨会报名信息",
+    "url": "/document/path/98876"
+  },
+  {
+    "dir": "会议/网络研讨会 (Webinar) 管理",
+    "file": "审批网络研讨会报名信息",
+    "url": "/document/path/98877"
+  },
+  {
+    "dir": "会议/网络研讨会 (Webinar) 管理",
+    "file": "导入网络研讨会报名信息",
+    "url": "/document/path/98880"
+  },
+  {
+    "dir": "会议/网络研讨会 (Webinar) 管理",
+    "file": "删除网络研讨会报名信息",
+    "url": "/document/path/98881"
+  },
+  {
+    "dir": "会议/电话入会（PSTN）管理",
+    "file": "批量外呼",
+    "url": "/document/path/98823"
+  },
+  {
+    "dir": "会议/电话入会（PSTN）管理",
+    "file": "获取会议的外呼状态",
+    "url": "/document/path/98824"
+  },
+  {
+    "dir": "会议/电话入会（PSTN）管理",
+    "file": "获取电话入会的成员ID",
+    "url": "/document/path/98825"
+  },
+  {
+    "dir": "会议/Rooms会议室管理",
+    "file": "预定Rooms会议室",
+    "url": "/document/path/98791"
+  },
+  {
+    "dir": "会议/Rooms会议室管理",
+    "file": "释放Rooms会议室",
+    "url": "/document/path/98792"
+  },
+  {
+    "dir": "会议/Rooms会议室管理",
+    "file": "获取Rooms会议室列表",
+    "url": "/document/path/98795"
+  },
+  {
+    "dir": "会议/Rooms会议室管理",
+    "file": "获取Rooms会议室详情",
+    "url": "/document/path/98793"
+  },
+  {
+    "dir": "会议/Rooms会议室管理",
+    "file": "获取Rooms会议室配置项",
+    "url": "/document/path/98802"
+  },
+  {
+    "dir": "会议/Rooms会议室管理",
+    "file": "获取Rooms会议室下的会议列表",
+    "url": "/document/path/98796"
+  },
+  {
+    "dir": "会议/Rooms会议室管理",
+    "file": "获取设备列表",
+    "url": "/document/path/98798"
+  },
+  {
+    "dir": "会议/Rooms会议室管理",
+    "file": "获取控制器列表",
+    "url": "/document/path/98799"
+  },
+  {
+    "dir": "会议/Rooms会议室管理",
+    "file": "获取Rooms会议室资源",
+    "url": "/document/path/98809"
+  },
+  {
+    "dir": "会议/Rooms会议室管理",
+    "file": "呼叫Rooms会议室",
+    "url": "/document/path/98804"
+  },
+  {
+    "dir": "会议/Rooms会议室管理",
+    "file": "取消呼叫Rooms会议室",
+    "url": "/document/path/98805"
+  },
+  {
+    "dir": "会议/Rooms会议室管理",
+    "file": "获取Rooms会议室应答状态",
+    "url": "/document/path/98806"
+  },
+  {
+    "dir": "会议/会议室连接器（MRA）管理",
+    "file": "获取 MRA 状态信息",
+    "url": "/document/path/98786"
+  },
+  {
+    "dir": "会议/会议室连接器（MRA）管理",
+    "file": "切换 MRA 默认布局",
+    "url": "/document/path/98787"
+  },
+  {
+    "dir": "会议/会议室连接器（MRA）管理",
+    "file": "设置 MRA 举手或手放下",
+    "url": "/document/path/98788"
+  },
+  {
+    "dir": "会议/会议室连接器（MRA）管理",
+    "file": "挂断 MRA 呼叫",
+    "url": "/document/path/98789"
+  },
+  {
+    "dir": "会议/会议布局和背景管理",
+    "file": "获取布局模板列表",
+    "url": "/document/path/98844"
+  },
+  {
+    "dir": "会议/会议布局和背景管理",
+    "file": "添加会议基础布局",
+    "url": "/document/path/98845"
+  },
+  {
+    "dir": "会议/会议布局和背景管理",
+    "file": "添加会议高级布局",
+    "url": "/document/path/98861"
+  },
+  {
+    "dir": "会议/会议布局和背景管理",
+    "file": "修改会议基础布局",
+    "url": "/document/path/98846"
+  },
+  {
+    "dir": "会议/会议布局和背景管理",
+    "file": "修改会议高级布局",
+    "url": "/document/path/98868"
+  },
+  {
+    "dir": "会议/会议布局和背景管理",
+    "file": "设置会议默认布局",
+    "url": "/document/path/98847"
+  },
+  {
+    "dir": "会议/会议布局和背景管理",
+    "file": "设置高级布局",
+    "url": "/document/path/98869"
+  },
+  {
+    "dir": "会议/会议布局和背景管理",
+    "file": "获取会议布局列表",
+    "url": "/document/path/98862"
+  },
+  {
+    "dir": "会议/会议布局和背景管理",
+    "file": "获取用户布局",
+    "url": "/document/path/98865"
+  },
+  {
+    "dir": "会议/会议布局和背景管理",
+    "file": "批量删除布局",
+    "url": "/document/path/98866"
+  },
+  {
+    "dir": "会议/会议布局和背景管理",
+    "file": "添加会议背景",
+    "url": "/document/path/98851"
+  },
+  {
+    "dir": "会议/会议布局和背景管理",
+    "file": "设置会议默认背景",
+    "url": "/document/path/98852"
+  },
+  {
+    "dir": "会议/会议布局和背景管理",
+    "file": "获取会议背景列表",
+    "url": "/document/path/98856"
+  },
+  {
+    "dir": "会议/会议布局和背景管理",
+    "file": "删除会议背景",
+    "url": "/document/path/98853"
+  },
+  {
+    "dir": "会议/会议布局和背景管理",
+    "file": "批量删除会议背景",
+    "url": "/document/path/98854"
+  },
+  {
+    "dir": "会议/录制管理",
+    "file": "获取会议录制列表",
+    "url": "/document/path/98192"
+  },
+  {
+    "dir": "会议/录制管理",
+    "file": "获取录制文件访问统计",
+    "url": "/document/path/98209"
+  },
+  {
+    "dir": "会议/录制管理",
+    "file": "修改会议录制共享设置",
+    "url": "/document/path/98208"
+  },
+  {
+    "dir": "会议/录制管理",
+    "file": "删除会议录制",
+    "url": "/document/path/98206"
+  },
+  {
+    "dir": "会议/录制管理",
+    "file": "删除单个录制文件",
+    "url": "/document/path/98207"
+  },
+  {
+    "dir": "会议/录制管理",
+    "file": "获取单个录制文件详情",
+    "url": "/document/path/98205"
+  },
+  {
+    "dir": "会议/录制管理",
+    "file": "获取会议录制地址",
+    "url": "/document/path/98196"
+  },
+  {
+    "dir": "会议/录制管理",
+    "file": "获取录制转写段落信息",
+    "url": "/document/path/98212"
+  },
+  {
+    "dir": "会议/录制管理",
+    "file": "获取录制转写详情",
+    "url": "/document/path/98211"
+  },
+  {
+    "dir": "会议/录制管理",
+    "file": "获取录制转写搜索结果",
+    "url": "/document/path/98213"
+  },
+  {
+    "dir": "会议/高级功能账号管理",
+    "file": "分配高级功能账号",
+    "url": "/document/path/99508"
+  },
+  {
+    "dir": "会议/高级功能账号管理",
+    "file": "取消高级功能账号",
+    "url": "/document/path/99509"
+  },
+  {
+    "dir": "会议/高级功能账号管理",
+    "file": "获取高级功能账号列表",
+    "url": "/document/path/99510"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "概述",
+    "url": "/document/path/99103"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "修改会议事件",
+    "url": "/document/path/99081"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "取消会议事件",
+    "url": "/document/path/99082"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "会议开始事件",
+    "url": "/document/path/98333"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "会议结束事件",
+    "url": "/document/path/98337"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "会议全体静音事件",
+    "url": "/document/path/98341"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "会议解除全体静音事件",
+    "url": "/document/path/98345"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "成员入会事件",
+    "url": "/document/path/98348"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "成员离会事件",
+    "url": "/document/path/98352"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "成员等待主持人入会事件",
+    "url": "/document/path/98353"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "成员进入等候室事件",
+    "url": "/document/path/98354"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "成员离开等候室事件",
+    "url": "/document/path/98355"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "成员从等候室进入会议事件",
+    "url": "/document/path/98393"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "成员从会议中被移入等候室事件",
+    "url": "/document/path/98394"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "共享屏幕开启事件",
+    "url": "/document/path/98395"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "共享屏幕结束事件",
+    "url": "/document/path/98396"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "会议成员角色变更事件",
+    "url": "/document/path/98397"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "网络研讨会成员角色变更事件",
+    "url": "/document/path/98771"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "网络研讨会暖场上传结果",
+    "url": "/document/path/98773"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "PSTN 外呼状态更新事件",
+    "url": "/document/path/98774"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "素材上传结果",
+    "url": "/document/path/98775"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "开始云录制事件",
+    "url": "/document/path/98398"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "暂停云录制事件",
+    "url": "/document/path/98399"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "恢复云录制事件",
+    "url": "/document/path/98400"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "停止云录制事件",
+    "url": "/document/path/98401"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "云录制已完成事件",
+    "url": "/document/path/98402"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "删除云录制事件",
+    "url": "/document/path/98404"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "用户报名事件",
+    "url": "/document/path/98781"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "用户取消报名事件",
+    "url": "/document/path/98782"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "会议室应答事件",
+    "url": "/document/path/98783"
+  },
+  {
+    "dir": "会议/回调通知",
+    "file": "会议发起事件",
+    "url": "/document/path/99648"
+  },
+  {
+    "dir": "微盘",
+    "file": "概述",
+    "url": "/document/path/93654"
+  },
+  {
+    "dir": "微盘/管理空间",
+    "file": "新建空间",
+    "url": "/document/path/93655"
+  },
+  {
+    "dir": "微盘/管理空间",
+    "file": "重命名空间",
+    "url": "/document/path/97856"
+  },
+  {
+    "dir": "微盘/管理空间",
+    "file": "解散空间",
+    "url": "/document/path/97857"
+  },
+  {
+    "dir": "微盘/管理空间",
+    "file": "获取空间信息",
+    "url": "/document/path/97858"
+  },
+  {
+    "dir": "微盘/管理空间权限",
+    "file": "添加成员/部门",
+    "url": "/document/path/93656"
+  },
+  {
+    "dir": "微盘/管理空间权限",
+    "file": "移除成员/部门",
+    "url": "/document/path/97875"
+  },
+  {
+    "dir": "微盘/管理空间权限",
+    "file": "安全设置",
+    "url": "/document/path/97876"
+  },
+  {
+    "dir": "微盘/管理空间权限",
+    "file": "获取邀请链接",
+    "url": "/document/path/97877"
+  },
+  {
+    "dir": "微盘/管理空间权限",
+    "file": "获取空间信息",
+    "url": "/document/path/97878"
+  },
+  {
+    "dir": "微盘/管理文件",
+    "file": "获取文件列表",
+    "url": "/document/path/93657"
+  },
+  {
+    "dir": "微盘/管理文件",
+    "file": "上传文件",
+    "url": "/document/path/97880"
+  },
+  {
+    "dir": "微盘/管理文件",
+    "file": "文件分块上传",
+    "url": "/document/path/98004"
+  },
+  {
+    "dir": "微盘/管理文件",
+    "file": "下载文件",
+    "url": "/document/path/97881"
+  },
+  {
+    "dir": "微盘/管理文件",
+    "file": "新建文件夹/文档",
+    "url": "/document/path/97882"
+  },
+  {
+    "dir": "微盘/管理文件",
+    "file": "重命名文件",
+    "url": "/document/path/97883"
+  },
+  {
+    "dir": "微盘/管理文件",
+    "file": "移动文件",
+    "url": "/document/path/97884"
+  },
+  {
+    "dir": "微盘/管理文件",
+    "file": "删除文件",
+    "url": "/document/path/97885"
+  },
+  {
+    "dir": "微盘/管理文件",
+    "file": "获取文件信息",
+    "url": "/document/path/97886"
+  },
+  {
+    "dir": "微盘/管理文件权限",
+    "file": "新增成员",
+    "url": "/document/path/93658"
+  },
+  {
+    "dir": "微盘/管理文件权限",
+    "file": "删除成员",
+    "url": "/document/path/97888"
+  },
+  {
+    "dir": "微盘/管理文件权限",
+    "file": "分享设置",
+    "url": "/document/path/97889"
+  },
+  {
+    "dir": "微盘/管理文件权限",
+    "file": "获取分享链接",
+    "url": "/document/path/97890"
+  },
+  {
+    "dir": "微盘/管理文件权限",
+    "file": "获取文件权限信息",
+    "url": "/document/path/97891"
+  },
+  {
+    "dir": "微盘/管理文件权限",
+    "file": "修改文件安全设置",
+    "url": "/document/path/97892"
+  },
+  {
+    "dir": "微盘/回调通知",
+    "file": "概述",
+    "url": "/document/path/97482"
+  },
+  {
+    "dir": "微盘/回调通知",
+    "file": "微盘容量不足事件",
+    "url": "/document/path/97898"
+  },
+  {
+    "dir": "微盘/回调通知",
+    "file": "空间变更事件",
+    "url": "/document/path/97899"
+  },
+  {
+    "dir": "微盘/回调通知",
+    "file": "文件变更事件",
+    "url": "/document/path/97900"
+  },
+  {
+    "dir": "微盘/回调通知",
+    "file": "解散空间",
+    "url": "/document/path/97901"
+  },
+  {
+    "dir": "微盘/回调通知",
+    "file": "修改空间成员",
+    "url": "/document/path/97902"
+  },
+  {
+    "dir": "微盘/回调通知",
+    "file": "修改空间安全设置",
+    "url": "/document/path/97903"
+  },
+  {
+    "dir": "微盘/高级功能账号管理",
+    "file": "分配高级功能账号",
+    "url": "/document/path/99512"
+  },
+  {
+    "dir": "微盘/高级功能账号管理",
+    "file": "取消高级功能账号",
+    "url": "/document/path/99513"
+  },
+  {
+    "dir": "微盘/高级功能账号管理",
+    "file": "获取高级功能账号列表",
+    "url": "/document/path/99514"
+  },
+  {
+    "dir": "微盘",
+    "file": "版本和容量管理",
+    "url": "/document/path/95856"
+  },
+  {
+    "dir": "直播",
+    "file": "概述",
+    "url": "/document/path/93633"
+  },
+  {
+    "dir": "直播",
+    "file": "创建预约直播",
+    "url": "/document/path/93637"
+  },
+  {
+    "dir": "直播",
+    "file": "修改预约直播",
+    "url": "/document/path/93640"
+  },
+  {
+    "dir": "直播",
+    "file": "取消预约直播",
+    "url": "/document/path/93638"
+  },
+  {
+    "dir": "直播",
+    "file": "删除直播回放",
+    "url": "/document/path/93874"
+  },
+  {
+    "dir": "直播",
+    "file": "在微信中观看直播或直播回放",
+    "url": "/document/path/93641"
+  },
+  {
+    "dir": "直播",
+    "file": "获取成员直播ID列表",
+    "url": "/document/path/93634"
+  },
+  {
+    "dir": "直播",
+    "file": "获取直播详情",
+    "url": "/document/path/93635"
+  },
+  {
+    "dir": "直播",
+    "file": "获取直播观看明细",
+    "url": "/document/path/93636"
+  },
+  {
+    "dir": "直播",
+    "file": "直播回调事件",
+    "url": "/document/path/94145"
+  },
+  {
+    "dir": "直播",
+    "file": "获取跳转小程序商城的直播观众信息",
+    "url": "/document/path/94442"
+  },
+  {
+    "dir": "公费电话",
+    "file": "获取公费电话拨打记录",
+    "url": "/document/path/93662"
+  },
+  {
+    "dir": "打卡",
+    "file": "获取企业所有打卡规则",
+    "url": "/document/path/93384"
+  },
+  {
+    "dir": "打卡",
+    "file": "获取员工打卡规则",
+    "url": "/document/path/90263"
+  },
+  {
+    "dir": "打卡",
+    "file": "获取打卡记录数据",
+    "url": "/document/path/90262"
+  },
+  {
+    "dir": "打卡",
+    "file": "获取打卡日报数据",
+    "url": "/document/path/93374"
+  },
+  {
+    "dir": "打卡",
+    "file": "获取打卡月报数据",
+    "url": "/document/path/93387"
+  },
+  {
+    "dir": "打卡",
+    "file": "获取打卡人员排班信息",
+    "url": "/document/path/93380"
+  },
+  {
+    "dir": "打卡",
+    "file": "为打卡人员排班",
+    "url": "/document/path/93385"
+  },
+  {
+    "dir": "打卡",
+    "file": "为打卡人员补卡",
+    "url": "/document/path/95803"
+  },
+  {
+    "dir": "打卡",
+    "file": "添加打卡记录",
+    "url": "/document/path/99647"
+  },
+  {
+    "dir": "打卡",
+    "file": "录入打卡人员人脸信息",
+    "url": "/document/path/93378"
+  },
+  {
+    "dir": "打卡",
+    "file": "获取设备打卡数据",
+    "url": "/document/path/94126"
+  },
+  {
+    "dir": "打卡",
+    "file": "管理打卡规则",
+    "url": "/document/path/98041"
+  },
+  {
+    "dir": "审批",
+    "file": "概述",
+    "url": "/document/path/91854"
+  },
+  {
+    "dir": "审批",
+    "file": "获取审批模板详情",
+    "url": "/document/path/91982"
+  },
+  {
+    "dir": "审批",
+    "file": "提交审批申请",
+    "url": "/document/path/91853"
+  },
+  {
+    "dir": "审批",
+    "file": "审批申请状态变化回调通知",
+    "url": "/document/path/91815"
+  },
+  {
+    "dir": "审批",
+    "file": "批量获取审批单号",
+    "url": "/document/path/91816"
+  },
+  {
+    "dir": "审批",
+    "file": "获取审批申请详情",
+    "url": "/document/path/91983"
+  },
+  {
+    "dir": "审批",
+    "file": "获取审批数据（旧）",
+    "url": "/document/path/91530"
+  },
+  {
+    "dir": "审批",
+    "file": "获取企业假期管理配置",
+    "url": "/document/path/93375"
+  },
+  {
+    "dir": "审批",
+    "file": "获取成员假期余额",
+    "url": "/document/path/93376"
+  },
+  {
+    "dir": "审批",
+    "file": "修改成员假期余额",
+    "url": "/document/path/93377"
+  },
+  {
+    "dir": "审批",
+    "file": "审批流程引擎",
+    "url": "/document/path/90269"
+  },
+  {
+    "dir": "审批",
+    "file": "创建审批模板",
+    "url": "/document/path/97437"
+  },
+  {
+    "dir": "审批",
+    "file": "更新审批模板",
+    "url": "/document/path/97438"
+  },
+  {
+    "dir": "汇报",
+    "file": "概述",
+    "url": "/document/path/93496"
+  },
+  {
+    "dir": "汇报",
+    "file": "批量获取汇报记录单号",
+    "url": "/document/path/93393"
+  },
+  {
+    "dir": "汇报",
+    "file": "获取汇报记录详情",
+    "url": "/document/path/93394"
+  },
+  {
+    "dir": "汇报",
+    "file": "获取汇报统计数据",
+    "url": "/document/path/93395"
+  },
+  {
+    "dir": "汇报",
+    "file": "下载微盘文件",
+    "url": "/document/path/98021"
+  },
+  {
+    "dir": "人事助手/花名册",
+    "file": "概述",
+    "url": "/document/path/99130"
+  },
+  {
+    "dir": "人事助手/花名册",
+    "file": "获取员工字段配置",
+    "url": "/document/path/99131"
+  },
+  {
+    "dir": "人事助手/花名册",
+    "file": "获取员工花名册信息",
+    "url": "/document/path/99132"
+  },
+  {
+    "dir": "人事助手/花名册",
+    "file": "更新员工花名册信息",
+    "url": "/document/path/99133"
+  },
+  {
+    "dir": "会议室",
+    "file": "概述",
+    "url": "/document/path/93618"
+  },
+  {
+    "dir": "会议室",
+    "file": "会议室管理",
+    "url": "/document/path/93619"
+  },
+  {
+    "dir": "会议室",
+    "file": "会议室预定管理",
+    "url": "/document/path/93620"
+  },
+  {
+    "dir": "会议室",
+    "file": "回调事件",
+    "url": "/document/path/95333"
+  },
+  {
+    "dir": "高级功能",
+    "file": "概述",
+    "url": "/document/path/99860"
+  },
+  {
+    "dir": "高级功能",
+    "file": "成员申请的提交回调",
+    "url": "/document/path/99876"
+  },
+  {
+    "dir": "高级功能",
+    "file": "成员申请的终止回调",
+    "url": "/document/path/99877"
+  },
+  {
+    "dir": "高级功能",
+    "file": "设置审批单审批信息",
+    "url": "/document/path/99880"
+  },
+  {
+    "dir": "高级功能",
+    "file": "批量获取申请单ID",
+    "url": "/document/path/99883"
+  },
+  {
+    "dir": "高级功能",
+    "file": "获取申请单详细信息",
+    "url": "/document/path/99885"
+  },
+  {
+    "dir": "紧急通知应用",
+    "file": "概述",
+    "url": "/document/path/91623"
+  },
+  {
+    "dir": "紧急通知应用",
+    "file": "发起语音电话",
+    "url": "/document/path/91627"
+  },
+  {
+    "dir": "紧急通知应用",
+    "file": "获取接听状态",
+    "url": "/document/path/91628"
+  }
+]

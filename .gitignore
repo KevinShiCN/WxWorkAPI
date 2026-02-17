@@ -1,0 +1,5 @@
+node_modules/
+.playwright-mcp/
+_meta/crawl-failures.json
+_meta/crawl-report.json
+*.log
