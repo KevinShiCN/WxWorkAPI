@@ -1,6 +1,10 @@
 import { chromium } from 'playwright';
 import { writeFileSync } from 'fs';
+import { join, dirname } from 'path';
+import { fileURLToPath } from 'url';
 
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const META_DIR = join(__dirname, '..', '_meta');
 const BASE = 'https://developer.work.weixin.qq.com';
 
 function extractNav() {
@@ -38,11 +42,11 @@ async function main() {
   const page = await browser.newPage();
 
   const server = await extract(page, '/document/path/90664');
-  writeFileSync('W:/Projects/WxWorkAPI/_meta/nav-server.json', JSON.stringify(server, null, 2));
+  writeFileSync(join(META_DIR, 'nav-server.json'), JSON.stringify(server, null, 2));
   console.log('服务端API:', server.length);
 
   const client = await extract(page, '/document/path/92455');
-  writeFileSync('W:/Projects/WxWorkAPI/_meta/nav-client.json', JSON.stringify(client, null, 2));
+  writeFileSync(join(META_DIR, 'nav-client.json'), JSON.stringify(client, null, 2));
   console.log('客户端API:', client.length);
 
   const others = {};
@@ -57,7 +61,7 @@ async function main() {
     others[name] = data;
     console.log(`${name}: ${data.length}`);
   }
-  writeFileSync('W:/Projects/WxWorkAPI/_meta/nav-other.json', JSON.stringify(others, null, 2));
+  writeFileSync(join(META_DIR, 'nav-other.json'), JSON.stringify(others, null, 2));
 
   await browser.close();
   console.log('Done.');

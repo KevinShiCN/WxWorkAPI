@@ -7,6 +7,10 @@
     "doc": "docs"
   },
   "scripts": {
+    "extract-nav": "node scripts/extract-nav.mjs",
+    "crawl": "node scripts/crawl.mjs",
+    "gen-index": "node scripts/gen-index.mjs",
+    "update": "node scripts/extract-nav.mjs && node scripts/crawl.mjs && node scripts/gen-index.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,7 +20,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/KevinShiCN/WxWorkAPI/issues"
   },
