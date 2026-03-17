@@ -2,7 +2,7 @@
 title: "获取子部门ID列表"
 source: "https://developer.work.weixin.qq.com/document/path/95350"
 last_update: "2023/09/06"
-crawl_date: "2026-02-17"
+crawl_date: "2026-03-17"
 ---
 
 # 获取子部门ID列表

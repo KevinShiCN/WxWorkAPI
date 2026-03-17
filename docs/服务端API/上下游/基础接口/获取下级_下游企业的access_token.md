@@ -2,7 +2,7 @@
 title: "获取下级/下游企业的access_token"
 source: "https://developer.work.weixin.qq.com/document/path/95816"
 last_update: "2025/08/15"
-crawl_date: "2026-02-17"
+crawl_date: "2026-03-17"
 ---
 
 # 获取下级/下游企业的access_token

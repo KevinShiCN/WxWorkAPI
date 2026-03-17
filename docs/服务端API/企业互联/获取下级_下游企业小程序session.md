@@ -2,7 +2,7 @@
 title: "获取下级/下游企业小程序session"
 source: "https://developer.work.weixin.qq.com/document/path/93355"
 last_update: "2023/01/11"
-crawl_date: "2026-02-17"
+crawl_date: "2026-03-17"
 ---
 
 # 获取下级/下游企业小程序session

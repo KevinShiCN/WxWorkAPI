@@ -2,7 +2,7 @@
 title: "获取access_token"
 source: "https://developer.work.weixin.qq.com/document/path/91039"
 last_update: "2024/03/26"
-crawl_date: "2026-02-17"
+crawl_date: "2026-03-17"
 ---
 
 # 获取access_token

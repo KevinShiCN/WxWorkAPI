@@ -2,7 +2,7 @@
 title: "邮箱获取userid"
 source: "https://developer.work.weixin.qq.com/document/path/95895"
 last_update: "2025/08/29"
-crawl_date: "2026-02-17"
+crawl_date: "2026-03-17"
 ---
 
 # 邮箱获取userid

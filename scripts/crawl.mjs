@@ -24,9 +24,11 @@ const MAX_RETRIES = 2;
 const DELAY_MS = 500;
 const CONSECUTIVE_FAIL_LIMIT = 5;
 
-// 内容哈希（排除 crawl_date，避免每次爬取都产生差异）
+// 内容哈希（排除 crawl_date 和 last_update，避免日期变化产生误报）
 function contentHash(text) {
-  const normalized = text.replace(/^crawl_date:.*$/m, '');
+  const normalized = text
+    .replace(/^crawl_date:.*$/m, '')
+    .replace(/^last_update:.*$/m, '');
   return createHash('sha256').update(normalized).digest('hex');
 }
 

@@ -2,7 +2,7 @@
 title: "tmp_external_userid的转换"
 source: "https://developer.work.weixin.qq.com/document/path/98729"
 last_update: "2025/07/01"
-crawl_date: "2026-02-17"
+crawl_date: "2026-03-17"
 ---
 
 # tmp_external_userid的转换
