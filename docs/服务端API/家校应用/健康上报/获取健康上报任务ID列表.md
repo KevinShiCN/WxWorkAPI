@@ -1,8 +1,8 @@
 ---
 title: "获取健康上报任务ID列表"
 source: "https://developer.work.weixin.qq.com/document/path/93677"
-last_update: ""
-crawl_date: "2026-02-17"
+last_update: "2023/11/30"
+crawl_date: "2026-03-23"
 ---
 
 # 获取健康上报任务ID列表
@@ -14,43 +14,56 @@ crawl_date: "2026-02-17"
 
 **请求包体：**
 
-```
+      
+```json
 {
-    "offset": 0,
-    "limit": 100
+	"offset": 0,
+	"limit": 100
 }
-
 ```
 
+    
 **参数说明：**
 
+        
 | 参数 | 必须 | 说明 |
 | --- | --- | --- |
 | access_token | 是 | 调用接口凭证 |
 | offset | 否 | 分页，偏移量, 默认为0 |
 | limit | 否 | 分页，预期请求的数据量，默认为100，取值范围 1 ~ 100 |
 
+ 
+
 **权限说明：**
 
-- 仅健康上报应用可调用。
+        
+| 应用类型 | 权限要求 |
+| --- | --- |
+| 自建应用 | 配置到「健康上报 - 可调用接口的应用」中 |
+| 代开发应用 | 暂不支持 |
+| 第三方应用 | 暂不支持 |
+
+ *注：* 从2023年12月1日0点起，不再支持通过系统应用secret调用接口，存量企业暂不受影响 [查看详情](https://developer.work.weixin.qq.com/document/51165)
 
 **返回结果：**
 
-```
+      
+```javascript
 {
    "errcode": 0,
    "errmsg": "ok",
    "ending":1,
    "jobids":[
-        "jobid1",
-        "jobid2"
+		"jobid1",
+		"jobid2"
    ]
 }
-
 ```
 
+    
 **参数说明：**
 
+        
 | 参数 | 说明 |
 | --- | --- |
 | errcode | 返回码 |

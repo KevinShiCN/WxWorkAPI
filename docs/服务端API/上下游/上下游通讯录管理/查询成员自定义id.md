@@ -2,7 +2,7 @@
 title: "查询成员自定义id"
 source: "https://developer.work.weixin.qq.com/document/path/97441"
 last_update: "2023/11/29"
-crawl_date: "2026-02-17"
+crawl_date: "2026-03-23"
 ---
 
 # 查询成员自定义id

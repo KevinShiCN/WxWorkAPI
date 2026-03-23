@@ -1,8 +1,8 @@
 ---
 title: "外部联系人openid转换"
 source: "https://developer.work.weixin.qq.com/document/path/92323"
-last_update: ""
-crawl_date: "2026-02-17"
+last_update: "2020/01/12"
+crawl_date: "2026-03-23"
 ---
 
 # 外部联系人openid转换
@@ -14,15 +14,17 @@ crawl_date: "2026-02-17"
 
 **请求参数：**
 
-```
+      
+```javascript
 {
   "external_userid":"wmAAAAAAA"
 }
-
 ```
 
+    
 **参数说明：**
 
+        
 | 参数 | 必须 | 说明 |
 | --- | --- | --- |
 | access_token | 是 | 调用接口凭证 |
@@ -30,17 +32,19 @@ crawl_date: "2026-02-17"
 
 **返回结果：**
 
-```
+      
+```javascript
 ｛
  "errcode":0,
  "errmsg":"ok",
  "openid":"ooAAAAAAAAAAA"
 ｝
-
 ```
 
+    
 **参数说明：**
 
+        
 | 参数 | 说明 |
 | --- | --- |
 | errcode | 返回码 |

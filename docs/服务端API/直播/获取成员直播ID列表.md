@@ -1,8 +1,8 @@
 ---
 title: "获取成员直播ID列表"
 source: "https://developer.work.weixin.qq.com/document/path/93634"
-last_update: ""
-crawl_date: "2026-02-17"
+last_update: "2023/12/01"
+crawl_date: "2026-03-23"
 ---
 
 # 获取成员直播ID列表
@@ -14,46 +14,58 @@ crawl_date: "2026-02-17"
 
 **请求包体：**
 
-```
+      
+```json
 {
-    "userid": "USERID",
-    "cursor": "NEXT_KEY",
-    "limit": 20
+	"userid": "USERID",
+	"cursor": "NEXT_KEY",
+	"limit": 20
 }
-
 ```
 
+    
 **参数说明：**
 
+        
 | 参数 | 必须 | 说明 |
 | --- | --- | --- |
 | access_token | 是 | 调用接口凭证 |
 | userid | 是 | 企业成员的userid |
 | cursor | 否 | 上一次调用时返回的next_cursor，第一次拉取可以不填 |
-| limit | 否 | 每次拉取的数据量，默认值和最大值都为100 |
+| limit | 否 | 每次拉取的数据量，建议填20，默认值和最大值都为100 |
 
 **权限说明：**
 
-- 「上课直播/直播」应用有获取用户的所有直播
-- 自建应用和第三方应用只能获取本应用创建的直播
+        
+| 应用类型 | 权限要求 |
+| --- | --- |
+| 自建应用 | 配置到「上课直播/直播 - 可调用接口的应用」中 |
+| 代开发应用 | 具有「直播」权限 |
+| 第三方应用 | 具有「直播」权限 |
+
+- 只能获取本应用创建的直播
+
+*注：* 从2023年12月1日0点起，不再支持通过系统应用secret调用接口，存量企业暂不受影响 [查看详情](https://developer.work.weixin.qq.com/document/51165)
 
 **返回结果：**
 
-```
+      
+```javascript
 {
    "errcode": 0,
    "errmsg": "ok",
    "next_cursor": "next_cursor",
    "livingid_list":[
-        "livingid1",
-        "livingid2"
+		"livingid1",
+		"livingid2"
    ]
 }
-
 ```
 
+    
 **参数说明：**
 
+        
 | 参数 | 说明 |
 | --- | --- |
 | errcode | 返回码 |

@@ -1,28 +1,27 @@
 ---
 title: "获取会议成员报名 ID"
 source: "https://developer.work.weixin.qq.com/document/path/98794"
-last_update: ""
-crawl_date: "2026-02-17"
+last_update: "2024/07/18"
+crawl_date: "2026-03-23"
 ---
 
 # 获取会议成员报名 ID
 
-支持查询会议中已报名成员的报名 ID，仅会议创建者可查询。
-说明
--  可通过会中成员的 tmp_openid 查询到对应的报名 ID，成员的 tmp_openid 可通过 获取参会成员列表 接口获取。
-- 成员的报名 ID 每场会议是唯一的，可以通过 查询会议报名信息 接口匹配其对应的报名信息。
+支持查询会议中已报名成员的报名 ID。
+
+- 可通过会中成员的 tmp_openid 查询到对应的报名 ID，成员的 tmp_openid 可通过 获取参会成员列表 接口获取。
+- 成员的报名 ID 每场会议是唯一的，可以通过 获取会议报名信息 接口匹配其对应的报名信息。
 - 如果传入的成员没有报名，则不会返回该成员的 tmp_openid 和报名 ID。
 
 **请求方式：** POST（**HTTPS**）
-**请求地址：** https://qyapi.weixin.qq.com/cgi-bin/meeting/get_attendee_enroll_id?access_token=ACCESS_TOKEN
+**请求地址：** https://qyapi.weixin.qq.com/cgi-bin/meeting/enroll/query_by_tmp_openid?access_token=ACCESS_TOKEN
 
 **请求包体：**
 
       
-```
+```json
 {
 	"meetingid": "meetingid11234",
-	"userid": "USERID",
 	"sorting_rules": 1,
 	"tmp_openid_list": [
 		"msaaaaaaaa",
@@ -32,55 +31,54 @@ crawl_date: "2026-02-17"
 ```
 
     
-
 **参数说明：**
 
         
+| 参数 | 必须 | 类型 | 说明 |
+| --- | --- | --- | --- |
+| access_token | 是 | string | 调用接口凭证。获取方法查看“获取access_token” |
+| meetingid | 是 | string | 会议ID |
+| sorting_rules | 否 | int32 | 查询报名 ID 的排序规则。当该账号存在多条报名记录（手机号导入、手动报名等）时，该接口返回的顺序。1：优先查询手机号导入报名，再查询成员手动报名，默认值。2：优先查询成员手动报名，再查手机号导入。 |
+| tmp_openid_list | 是 | string[] | 当场会议的成员临时 ID（适用于所有成员）数组，单次最多支持500条。 |
 
-| 参数 | 必须 | 说明 |
-| --- | --- | --- |
-| access_token | 是 | 调用接口凭证。获取方法查看“获取access_token” |
-| meetingid | 是 | 会议ID |
-| userid | 否 | 会议创建者的用户ID |
-| sorting_rules | 否 | 查询报名 ID 的排序规则。当该账号存在多条报名记录（手机号导入、手动报名等）时，该接口返回的顺序。1：优先查询手机号导入报名，再查询用户手动报名，默认值。2：优先查询用户手动报名，再查手机号导入。 |
-| tmp_openid_list | 否 | 当场会议的用户临时 ID（适用于所有用户）数组，单次最多支持500条。 |
+**权限说明**
+
+- 仅配置在“可调用接口的应用”列表中的自建应用可调用
+- 仅允许获取该应用创建的会议的数据
 
  
 
 **返回结果：**
 
       
-```
+```javascript
 {
 	"errcode": 0,
 	"errmsg": "ok",
 	"enroll_id_list": [{
 		"tmp_openid": "msaaaaaaaa",
-		"enroll_id": 1386442
+		"enroll_id": "mexxxxxxx"
 	},{
 		"tmp_openid": "msbbbbbbbb",
-		"enroll_id": 9896426
-	}
+		"enroll_id": "meyyyyyyy"
+	}]
 }
 ```
 
     
-
 **参数说明**
 
         
-
-| 参数 | 说明 |
-| --- | --- |
-| errcode | 返回码 |
-| errmsg | 对返回码的文本描述内容 |
-| enroll_id_list | 成员报名 ID 数组，仅返回已报名成员的报名 ID，若传入的用户无人报名，则无该字段。详见EnrollID |
+| 参数 | 类型 | 说明 |
+| --- | --- | --- |
+| errcode | int32 | 返回码 |
+| errmsg | string | 对返回码的文本描述内容 |
+| enroll_id_list | object[] | 成员报名 ID 数组，仅返回已报名成员的报名 ID，若传入的成员无人报名，则无该字段。详见EnrollID |
 
 **EnrollID说明**
 
         
-
-| 参数 | 说明 |
-| --- | --- |
-| tmp_openid | 当场会议的用户临时 ID，适用于所有用户。 |
-| enroll_id | 报名ID |
+| 参数 | 类型 | 说明 |
+| --- | --- | --- |
+| tmp_openid | string | 当场会议的成员临时 ID，适用于所有成员。 |
+| enroll_id | string | 报名ID |
