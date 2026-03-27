@@ -1,0 +1,176 @@
+{
+  "date": "2026-03-26T08:26:53.790Z",
+  "total": 251,
+  "stats": {
+    "new": 1240,
+    "updated": 0,
+    "unchanged": 0,
+    "skip": 0,
+    "fail": 0,
+    "listing": 192
+  },
+  "categories": {
+    "注册与登录": {
+      "total": 27,
+      "new": 21,
+      "updated": 0,
+      "unchanged": 0,
+      "skip": 0,
+      "fail": 0,
+      "listing": 6
+    },
+    "企业设置与管理": {
+      "total": 84,
+      "new": 70,
+      "updated": 0,
+      "unchanged": 0,
+      "skip": 0,
+      "fail": 0,
+      "listing": 14
+    },
+    "智能办公": {
+      "total": 21,
+      "new": 17,
+      "updated": 0,
+      "unchanged": 0,
+      "skip": 0,
+      "fail": 0,
+      "listing": 4
+    },
+    "连接上下游": {
+      "total": 29,
+      "new": 23,
+      "updated": 0,
+      "unchanged": 0,
+      "skip": 0,
+      "fail": 0,
+      "listing": 6
+    },
+    "企业微信认证": {
+      "total": 29,
+      "new": 25,
+      "updated": 0,
+      "unchanged": 0,
+      "skip": 0,
+      "fail": 0,
+      "listing": 4
+    },
+    "通讯录": {
+      "total": 47,
+      "new": 37,
+      "updated": 0,
+      "unchanged": 0,
+      "skip": 0,
+      "fail": 0,
+      "listing": 10
+    },
+    "聊天": {
+      "total": 69,
+      "new": 64,
+      "updated": 0,
+      "unchanged": 0,
+      "skip": 0,
+      "fail": 0,
+      "listing": 5
+    },
+    "连接微信": {
+      "total": 154,
+      "new": 137,
+      "updated": 0,
+      "unchanged": 0,
+      "skip": 0,
+      "fail": 0,
+      "listing": 17
+    },
+    "效率工具": {
+      "total": 303,
+      "new": 270,
+      "updated": 0,
+      "unchanged": 0,
+      "skip": 0,
+      "fail": 0,
+      "listing": 33
+    },
+    "安全管理": {
+      "total": 18,
+      "new": 16,
+      "updated": 0,
+      "unchanged": 0,
+      "skip": 0,
+      "fail": 0,
+      "listing": 2
+    },
+    "打卡": {
+      "total": 63,
+      "new": 57,
+      "updated": 0,
+      "unchanged": 0,
+      "skip": 0,
+      "fail": 0,
+      "listing": 6
+    },
+    "审批": {
+      "total": 65,
+      "new": 57,
+      "updated": 0,
+      "unchanged": 0,
+      "skip": 0,
+      "fail": 0,
+      "listing": 8
+    },
+    "工作台应用": {
+      "total": 116,
+      "new": 93,
+      "updated": 0,
+      "unchanged": 0,
+      "skip": 0,
+      "fail": 0,
+      "listing": 23
+    },
+    "家校沟通": {
+      "total": 74,
+      "new": 62,
+      "updated": 0,
+      "unchanged": 0,
+      "skip": 0,
+      "fail": 0,
+      "listing": 12
+    },
+    "行业方案": {
+      "total": 120,
+      "new": 103,
+      "updated": 0,
+      "unchanged": 0,
+      "skip": 0,
+      "fail": 0,
+      "listing": 17
+    },
+    "高级功能": {
+      "total": 101,
+      "new": 88,
+      "updated": 0,
+      "unchanged": 0,
+      "skip": 0,
+      "fail": 0,
+      "listing": 13
+    },
+    "智慧硬件": {
+      "total": 42,
+      "new": 35,
+      "updated": 0,
+      "unchanged": 0,
+      "skip": 0,
+      "fail": 0,
+      "listing": 7
+    },
+    "其他": {
+      "total": 70,
+      "new": 65,
+      "updated": 0,
+      "unchanged": 0,
+      "skip": 0,
+      "fail": 0,
+      "listing": 5
+    }
+  }
+}
