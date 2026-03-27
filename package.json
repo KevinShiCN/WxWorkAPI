@@ -11,6 +11,10 @@
     "crawl": "node scripts/crawl.mjs",
     "gen-index": "node scripts/gen-index.mjs",
     "update": "node scripts/extract-nav.mjs && node scripts/crawl.mjs && node scripts/gen-index.mjs",
+    "extract-help-nav": "node scripts/extract-help-nav.mjs",
+    "crawl:help": "node scripts/crawl-help.mjs",
+    "update:help": "node scripts/extract-help-nav.mjs && node scripts/crawl-help.mjs && node scripts/gen-index.mjs",
+    "update:all": "npm run update && npm run update:help",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
