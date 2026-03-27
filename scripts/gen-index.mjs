@@ -55,7 +55,7 @@ function main() {
   const now = new Date().toISOString().split('T')[0];
   let md = `# 企业微信 API 文档索引\n\n`;
   md += `> 自动生成于 ${now}，共计 952 个文档页面\n\n`;
-  md += `> 本索引按官方导航目录结构组织，便于 AI/LLM 快速定位目标文档\n\n`;
+  md += `> 本索引按官方导航目录结构组织，含开发者文档 + 帮助中心，便于 AI/LLM 快速定位目标文档\n\n`;
 
   const categories = [
     { name: '快速入门', file: 'nav-other.json', key: '快速入门' },
@@ -67,17 +67,39 @@ function main() {
     { name: '联系我们', file: 'nav-other.json', key: '联系我们' },
   ];
 
+  // 帮助中心（独立数据源，按分类聚合）
+  const helpNav = loadNav('nav-help.json');
+  if (helpNav.length > 0) {
+    const helpByCategory = {};
+    for (const item of helpNav) {
+      if (!helpByCategory[item.category]) helpByCategory[item.category] = [];
+      helpByCategory[item.category].push(item);
+    }
+    const helpCategories = Object.entries(helpByCategory).map(([name, items]) => ({
+      name: `帮助中心/${name}`, items,
+    }));
+    // 追加到 categories 后面统一渲染
+    for (const hc of helpCategories) {
+      categories.push({ name: hc.name, _items: hc.items });
+    }
+  }
+
   let totalCount = 0;
   for (const cat of categories) {
     let items;
-    if (cat.key) {
+    if (cat._items) {
+      // 帮助中心分类（已预加载）
+      items = cat._items;
+    } else if (cat.key) {
       const all = JSON.parse(readFileSync(join(META_DIR, cat.file), 'utf-8'));
       items = all[cat.key] || [];
     } else {
       items = loadNav(cat.file);
     }
     totalCount += items.length;
-    const tree = buildTree(items, cat.name);
+    // 帮助中心路径前缀为 "帮助中心/<分类>"
+    const prefix = cat._items ? '帮助中心' : cat.name;
+    const tree = buildTree(items, prefix);
     md += `## ${cat.name}（${items.length} 篇）\n\n`;
     md += renderTree(tree);
     md += '\n';
